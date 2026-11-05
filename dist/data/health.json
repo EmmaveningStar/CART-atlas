@@ -1,22 +1,20 @@
 {
-  "lastAttempt": "2026-11-05T15:27:34.422202+00:00",
+  "lastAttempt": "2026-11-05T15:39:03.492711+00:00",
   "lastSuccess": null,
   "mode": "GitHub Actions 每日更新",
   "sources": {
-    "ClinicalTrials.gov": {
-      "status": "成功",
-      "count": 2693,
-      "checkedAt": "2026-11-05T15:27:34.422202+00:00"
+    "研究摘要": {
+      "status": "編輯整理・不自動匯入試驗清單"
     },
     "PubMed": {
       "status": "成功",
       "count": 100,
-      "checkedAt": "2026-11-05T15:27:34.422202+00:00"
+      "checkedAt": "2026-11-05T15:39:03.492711+00:00"
     },
     "主管機關監測": {
       "status": "9 頁失敗・保留舊雜湊",
       "count": 17,
-      "checkedAt": "2026-11-05T15:27:34.422202+00:00",
+      "checkedAt": "2026-11-05T15:39:03.492711+00:00",
       "errors": [
         {
           "name": "Kymriah / US",
