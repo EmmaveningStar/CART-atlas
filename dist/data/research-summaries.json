@@ -1,0 +1,44 @@
+[
+  {
+    "target": "CD19",
+    "title": "B 細胞疾病與自體免疫探索",
+    "summary": "已有血液腫瘤療法以 CD19 為標靶；研究持續探索新的細胞製造方式與疾病用途。SLE／狼瘡腎炎等自體免疫用途仍須分別評估，不能套用腫瘤核准狀態。",
+    "url": "https://clinicaltrials.gov/study/NCT06581198",
+    "reviewedAt": "2026-11-05"
+  },
+  {
+    "target": "BCMA",
+    "title": "多發性骨髓瘤",
+    "summary": "BCMA 是骨髓瘤 CAR-T 的重要標靶。研究關注治療順序、細胞持續性與復發後策略；不同產品與試驗結果不能直接互相比較。",
+    "url": "https://www.cancer.gov/about-cancer/treatment/research/car-t-cells",
+    "reviewedAt": "2026-11-05"
+  },
+  {
+    "target": "CD22",
+    "title": "B 細胞白血病的替代標靶",
+    "summary": "研究探索 CD22 CAR-T，包括 CD19 治療後的疾病情境。評估重點包括目標抗原表現、反應持續時間與安全性。",
+    "url": "https://ccr.cancer.gov/Pediatric-Oncology-Branch",
+    "reviewedAt": "2026-11-05"
+  },
+  {
+    "target": "BCMA + GPRC5D",
+    "title": "骨髓瘤雙標靶設計",
+    "summary": "雙標靶設計嘗試同時辨識不同抗原，以處理腫瘤細胞表現不一致等問題。設計上的潛力仍須臨床資料驗證，不能視為已優於單標靶療法。",
+    "url": "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-bcma-anti-gprc5d-car-t-cells-bms-986453",
+    "reviewedAt": "2026-11-05"
+  },
+  {
+    "target": "STEAP1",
+    "title": "實體腫瘤：前列腺癌",
+    "summary": "NCI 細胞治療開發計畫包含 STEAP1 CAR-T 的臨床研究。實體腫瘤研究需同時處理標靶選擇、細胞進入腫瘤與腫瘤微環境等挑戰。",
+    "url": "https://clinicaltrials.gov/study/NCT06236139",
+    "reviewedAt": "2026-11-05"
+  },
+  {
+    "target": "其他標靶",
+    "title": "CD33、CD123、Mesothelin 等",
+    "summary": "不同研究探索髓系腫瘤與實體腫瘤相關標靶。這裡提供研究方向導覽，並非把不同標靶視為同一種療法或同一研發階段。",
+    "url": "https://dctd.cancer.gov/drug-discovery-development/services/cell-based-immunotherapy",
+    "reviewedAt": "2026-11-05"
+  }
+]

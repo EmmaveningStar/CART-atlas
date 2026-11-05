@@ -57,15 +57,8 @@ def run():
     now=dt.datetime.now(dt.timezone.utc).isoformat();today=now[:10]
     health=load('health',{});health['lastAttempt']=now;health['mode']='GitHub Actions 每日更新';health['sources']={}
     news={x['id']:x for x in load('news',[])};fail=[]
-    try:
-        old={x['id']:x for x in load('trials',[])};items=trials_fetch()
-        for x in items:
-            if old.get(x['id'])!=x and x['updated']>=str(dt.date.today()-dt.timedelta(days=30)):
-                key='trial-'+x['id']+'-'+x['updated']
-                news[key]=dict(id=key,title=x['title'],date=x['updated'],type='試驗更新',source='ClinicalTrials.gov',url=x['source'],summary=f"{x['id']} · {x['phase']} · {x['status']}；登錄更新不代表新療效結果。",review='自動匯入・未審閱')
-        save('trials',items);health['sources']['ClinicalTrials.gov']={'status':'成功','count':len(items),'checkedAt':now}
-    except Exception as e:
-        fail.append('ClinicalTrials.gov');health['sources']['ClinicalTrials.gov']={'status':'失敗・保留舊資料','error':str(e)}
+    news={k:v for k,v in news.items() if v.get('type')!='試驗更新'}
+    health['sources']['研究摘要']={'status':'編輯整理・不自動匯入試驗清單'}
     try:
         items=pubmed_fetch();news.update({x['id']:x for x in items})
         health['sources']['PubMed']={'status':'成功','count':len(items),'checkedAt':now}
