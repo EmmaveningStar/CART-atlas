@@ -1,6 +1,60 @@
 {
-  "lastAttempt": null,
+  "lastAttempt": "2026-11-05T15:27:34.422202+00:00",
   "lastSuccess": null,
-  "mode": "等待 GitHub Actions 首次執行",
-  "sources": {}
+  "mode": "GitHub Actions 每日更新",
+  "sources": {
+    "ClinicalTrials.gov": {
+      "status": "成功",
+      "count": 2693,
+      "checkedAt": "2026-11-05T15:27:34.422202+00:00"
+    },
+    "PubMed": {
+      "status": "成功",
+      "count": 100,
+      "checkedAt": "2026-11-05T15:27:34.422202+00:00"
+    },
+    "主管機關監測": {
+      "status": "9 頁失敗・保留舊雜湊",
+      "count": 17,
+      "checkedAt": "2026-11-05T15:27:34.422202+00:00",
+      "errors": [
+        {
+          "name": "Kymriah / US",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "name": "Yescarta / US",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "name": "Tecartus / US",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "name": "Breyanzi / US",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "name": "Abecma / US",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "name": "Carvykti / US",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "name": "Aucatzyl / US",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "name": "源瑞達 / CN",
+          "error": "HTTP Error 412: Precondition Failed"
+        },
+        {
+          "name": "FDA 細胞與基因治療核准清單",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    }
+  }
 }

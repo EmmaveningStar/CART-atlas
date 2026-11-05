@@ -1,5 +1,3945 @@
 [
   {
+    "id": "trial-NCT05795595-2026-11-05",
+    "title": "A Safety and Efficacy Study Evaluating CTX131 in Adult Subjects With Relapsed or Refractory Solid Tumors",
+    "date": "2026-11-05",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05795595",
+    "summary": "NCT05795595 · PHASE1 · COMPLETED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05621291-2026-11-05",
+    "title": "A Multicenter Study to Evaluate Next-Generation Sequencing (NGS) Testing and Monitoring of B-Cell Recovery to Guide Management Following Chimeric Antigen Receptor T-cell (CART) Induced Remission in Children and Young Adults With B Lineage Acute Lymph...",
+    "date": "2026-11-05",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05621291",
+    "summary": "NCT05621291 · NA · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07701889-2026-11-05",
+    "title": "Bispecific CD19/CD20-Targeted Chimeric Antigen Receptor (CAR) Modified T Cells With 4-1BB and Mutated CD28 Costimulatory Domains in Patients With Relapsed or Refractory CD19+ Hematologic Malignancies",
+    "date": "2026-11-05",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07701889",
+    "summary": "NCT07701889 · PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07825064-2026-11-05",
+    "title": "Cevostamab in Combination With Pomalidomide and Dexamethasone After BCMA- Targeting CAR T-Cell Therapy in Participants With Previously Treated Multiple Myeloma",
+    "date": "2026-11-05",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07825064",
+    "summary": "NCT07825064 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07223021-2026-11-05",
+    "title": "A Study of Fludarabine Dosing in Children and Young Adults With B-cell Acute Lymphoblastic Leukemia",
+    "date": "2026-11-05",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07223021",
+    "summary": "NCT07223021 · PHASE3 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07917923-2026-11-05",
+    "title": "A Clinical Study to Evaluate the Safety and Efficacy of GT802 Injection in the Treatment of Refractory Generalized Myasthenia Gravis",
+    "date": "2026-11-05",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07917923",
+    "summary": "NCT07917923 · EARLY_PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05574114-2026-11-05",
+    "title": "A Study of Radiation Therapy Before CAR T Cell Therapy for People With B Cell Lymphoma",
+    "date": "2026-11-05",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05574114",
+    "summary": "NCT05574114 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07585071-2026-11-05",
+    "title": "IASO206 in Patients With Relapsed/Refractory Autoimmune Hemolytic Anemia",
+    "date": "2026-11-05",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07585071",
+    "summary": "NCT07585071 · PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05852717-2026-11-05",
+    "title": "Safety and Efficacy of Epcoritamab With Gemcitabine, Dexamethasone, and Cisplatin (GDP) Salvage Chemotherapy in Relapsed Refractory Large B-cell Lymphoma",
+    "date": "2026-11-05",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05852717",
+    "summary": "NCT05852717 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06492304-2026-11-05",
+    "title": "A Safety and Efficacy Study Evaluating CTX131 in Adult Subjects With Relapsed/Refractory Hematologic Malignancies",
+    "date": "2026-11-05",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06492304",
+    "summary": "NCT06492304 · PHASE1 · COMPLETED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05239143-2026-11-05",
+    "title": "P-MUC1C-ALLO1 Allogeneic CAR-T Cells in the Treatment of Subjects With Advanced or Metastatic Solid Tumors",
+    "date": "2026-11-05",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05239143",
+    "summary": "NCT05239143 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06096038-2026-11-05",
+    "title": "Autologous CAR-T Cells Targeting CSPG4 in Relapsed/Refractory HNSCC",
+    "date": "2026-11-05",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06096038",
+    "summary": "NCT06096038 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06885697-2026-11-05",
+    "title": "Anti-Mesothelin TNaive/SCM hYP218 (TNhYP218) CAR T Cells in Participants With Mesothelin-Expressing Solid Tumors Including Mesothelioma",
+    "date": "2026-11-05",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06885697",
+    "summary": "NCT06885697 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07911540-2026-11-05",
+    "title": "Wearable Core Body Temperature Monitoring for Early Detection of Cytokine Release Syndrome in Outpatients Receiving CAR T-Cell Therapy",
+    "date": "2026-11-05",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07911540",
+    "summary": "NCT07911540 · NA · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07572136-2026-11-05",
+    "title": "Anti-CRLF2-R/TSLPR Chimeric Antigen Receptor T Cells (TSLPR-CART) in Participants With Recurrent or Refractory CRLF2-R/TSLPR-Overexpressing B-Cell Acute Lymphoblastic Leukemia (B-ALL)",
+    "date": "2026-11-05",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07572136",
+    "summary": "NCT07572136 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07802756-2026-11-04",
+    "title": "Dose-Escalation/Expansion Study of iMagic in Relapsed/Refractory Hematologic Malignancies",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07802756",
+    "summary": "NCT07802756 · EARLY_PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05753501-2026-11-04",
+    "title": "Study to Evaluate Adverse Events, Change in Disease Activity, and How Oral ABBV-101 Moves Through the Body in Adult Participants With B-Cell Malignancies",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05753501",
+    "summary": "NCT05753501 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04013802-2026-11-04",
+    "title": "TETRAVI Multivirus CTL for Treatment of EBV, CMV, Adenovirus, and BK Infections Post Allogeneic SCT.",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04013802",
+    "summary": "NCT04013802 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06579469-2026-11-04",
+    "title": "Prospective Evaluation Of Delayed Effects Of Pediatric Car T Cell Therapy",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06579469",
+    "summary": "NCT06579469 · 未提供 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06212154-2026-11-04",
+    "title": "CAR-T for Autoimmune Hemolytic Anemia Patients Who Have Failed Three or More Lines of Therapy",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06212154",
+    "summary": "NCT06212154 · PHASE1 · TERMINATED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05870917-2026-11-04",
+    "title": "A Study of VRD-based Regimen Combined With CART-ASCT-CART2 Treatment in Patients With Primary Plasma Cell Leukemia",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05870917",
+    "summary": "NCT05870917 · PHASE2 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07188558-2026-11-04",
+    "title": "A Study to Investigate Ronde-cel Versus Investigator's Choice CD19 CAR T-Cell Therapy",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07188558",
+    "summary": "NCT07188558 · PHASE3 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05979363-2026-11-04",
+    "title": "A Study of Bortezomib, Lenalidomide and Dexamethasone (VRd)-Based Regimen Followed by BCMA CAR-T Therapy in Transplant-Ineligible Patients With Primary Plasma Cell Leukemia",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05979363",
+    "summary": "NCT05979363 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06971380-2026-11-04",
+    "title": "Study of HBI0101 (NXC-201) CAR-T Therapy in Multiple Myeloma and Light-Chain Amyloidosis",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06971380",
+    "summary": "NCT06971380 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06622694-2026-11-04",
+    "title": "CD7 CAR T Cells (RD13-02) in the Treatment of Relapsed/Refractory Severe Aplastic Anemia",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06622694",
+    "summary": "NCT06622694 · PHASE1 · SUSPENDED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07239323-2026-11-04",
+    "title": "In VIVO CAR-T Therapy for Relapsed/Refractory Hematological Malignancies",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07239323",
+    "summary": "NCT07239323 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07221032-2026-11-04",
+    "title": "FT836 CAR T-cell Therapy in Combination With Daratumumab in Patients With Relapsed and/or Refractory Multiple Myeloma",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07221032",
+    "summary": "NCT07221032 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT03081910-2026-11-04",
+    "title": "Autologous T-Cells Expressing a Second Generation CAR for Treatment of T-Cell Malignancies Expressing CD5 Antigen",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT03081910",
+    "summary": "NCT03081910 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06733610-2026-11-04",
+    "title": "CAR T-cell Therapy Targeting CD19 and BCMA in Patients With AIHA Who Have Failed ≥3 Lines of Therapy.",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06733610",
+    "summary": "NCT06733610 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05989204-2026-11-04",
+    "title": "TmCD19-IL18 in CD19+ Cancers",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05989204",
+    "summary": "NCT05989204 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04855253-2026-11-04",
+    "title": "Ph I/II Study of E7777 Prior to CAR-T for R/R LBCL",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04855253",
+    "summary": "NCT04855253 · PHASE1 / PHASE2 · SUSPENDED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07915102-2026-11-04",
+    "title": "CAR-T Therapy: Safety, Efficacy, and Immune-Escape Mechanisms",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07915102",
+    "summary": "NCT07915102 · 未提供 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07009899-2026-11-04",
+    "title": "BCMA Bispecific Antibody Therapy for Post-BCMA CAR T-Cell Therapy Relapse (RECLAIM)",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07009899",
+    "summary": "NCT07009899 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT02208362-2026-11-04",
+    "title": "Genetically Modified T-cells in Treating Patients With Recurrent or Refractory Malignant Glioma",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT02208362",
+    "summary": "NCT02208362 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06921980-2026-11-04",
+    "title": "Brain Function and Psychological Changes Related to Cell Therapy for Autoimmune Hemolytic Anemia",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06921980",
+    "summary": "NCT06921980 · 未提供 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05081479-2026-11-04",
+    "title": "A Study of N-Acetylcysteine (N-AC) in People Receiving CAR T-cell Therapy for Lymphoma",
+    "date": "2026-11-04",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05081479",
+    "summary": "NCT05081479 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42979334",
+    "title": "Transient Atrioventricular Block Secondary to Coronary Artery Embolism From Infective Endocarditis Following CAR T-Cell Therapy.",
+    "date": "2026-11-04",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42979334/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42980050",
+    "title": "Bispecific antibodies targeting B-cell maturation antigen in multiple myeloma: Current clinical applications, challenges and future directions.",
+    "date": "2026-11-04",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42980050/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42982417",
+    "title": "Beyond Dendritic Cells: A Cellular Pharmacology Agenda for mRNA Cancer Vaccines in Hematologic Malignancies.",
+    "date": "2026-11-04",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42982417/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42980888",
+    "title": "Advancing CLDN18.2-Targeted Therapies in Pancreatic Cancer: Current Clinical Development and Therapeutic Opportunities.",
+    "date": "2026-11-04",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42980888/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42978312",
+    "title": "Cell therapy and autoimmune diseases: application prospects and challenges.",
+    "date": "2026-11-04",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42978312/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42979425",
+    "title": "M11-CAR T cells inhibit murine cytomegalovirus in vitro upon recognition of virion- and cell-associated glycoprotein B.",
+    "date": "2026-11-04",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42979425/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42979173",
+    "title": "Chimeric antigen receptor T-cell therapy as a cure for large B-cell lymphoma.",
+    "date": "2026-11-04",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42979173/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42977824",
+    "title": "Hematotoxicity: the hidden legacy of CAR T cell therapy.",
+    "date": "2026-11-04",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42977824/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42979453",
+    "title": "CAR-T in solid tumors: Obstacles and potential strategies.",
+    "date": "2026-11-04",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42979453/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42979424",
+    "title": "Persistent Campylobacter jejuni enterocolitis after CAR T-cell therapy in a patient with hypogammaglobulinemic follicular lymphoma.",
+    "date": "2026-11-04",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42979424/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42979064",
+    "title": "In vivo CAR-T therapy: Delivery systems and beyond for addressing expression, persistence, and safety challenges.",
+    "date": "2026-11-04",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42979064/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05277753-2026-11-03",
+    "title": "NGS-MRD Assessment of Combination Immunotherapies Targeting T-ALL",
+    "date": "2026-11-03",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05277753",
+    "summary": "NCT05277753 · PHASE1 · TERMINATED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05237986-2026-11-03",
+    "title": "Cognitive Aftereffects of Neurotoxicity in Children and Young Adults With Relapsed/Refractory Hematologic Malignancies Who Receive CAR T-cell Therapy",
+    "date": "2026-11-03",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05237986",
+    "summary": "NCT05237986 · 未提供 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04923893-2026-11-03",
+    "title": "A Study of Bortezomib, Lenalidomide and Dexamethasone (VRd) Followed by Cilta-cel, a CAR-T Therapy Directed Against BCMA Versus VRd Followed by Lenalidomide and Dexamethasone (Rd) Therapy in Participants With Newly Diagnosed Multiple Myeloma for Whom ASCT is Not Planned as Initial Therapy",
+    "date": "2026-11-03",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04923893",
+    "summary": "NCT04923893 · PHASE3 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05437341-2026-11-03",
+    "title": "PSMA/CD70 Bi-specific CAR-T Cell Therapy",
+    "date": "2026-11-03",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05437341",
+    "summary": "NCT05437341 · PHASE1 / PHASE2 · TERMINATED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04181827-2026-11-03",
+    "title": "A Study Comparing JNJ-68284528, a CAR-T Therapy Directed Against B-cell Maturation Antigen (BCMA), Versus Pomalidomide, Bortezomib and Dexamethasone (PVd) or Daratumumab, Pomalidomide and Dexamethasone (DPd) in Participants With Relapsed and Lenalidomide-Refractory Multiple Myeloma",
+    "date": "2026-11-03",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04181827",
+    "summary": "NCT04181827 · PHASE3 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05784441-2026-11-03",
+    "title": "A Study of JNJ-90009530 in Relapsed or Refractory B-Cell Non-Hodgkin Lymphoma (r/r B-NHL)",
+    "date": "2026-11-03",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05784441",
+    "summary": "NCT05784441 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05421663-2026-11-03",
+    "title": "A Study of JNJ-90014496 in Participants With B-Cell Non-Hodgkin Lymphoma",
+    "date": "2026-11-03",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05421663",
+    "summary": "NCT05421663 · PHASE1 / PHASE2 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05535244-2026-11-03",
+    "title": "A Study Evaluating the Efficacy and Safety of Cevostamab in Prior B Cell Maturation Antigen (BCMA)-Exposed Participants With Relapsed/Refractory Multiple Myeloma",
+    "date": "2026-11-03",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05535244",
+    "summary": "NCT05535244 · PHASE1 / PHASE2 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04427449-2026-11-03",
+    "title": "4SCAR-CD44v6 T Cell Therapy Targeting Cancer",
+    "date": "2026-11-03",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04427449",
+    "summary": "NCT04427449 · PHASE1 / PHASE2 · TERMINATED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07149857-2026-11-03",
+    "title": "A Study to Evaluate Efficacy and Safety of Ciltacabtagene Autoleucel",
+    "date": "2026-11-03",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07149857",
+    "summary": "NCT07149857 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07897968-2026-11-03",
+    "title": "GD2IL18CART Combined With Bevacizumab for Relapsed and Refractory GD2-positive Solid Tumors",
+    "date": "2026-11-03",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07897968",
+    "summary": "NCT07897968 · PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07428993-2026-11-03",
+    "title": "Evaluating Efficacy of B7-H3-CAR T Cells Administered at the End of Upfront Map Chemotherapy in Patients With Newly Diagnosed High-Risk Osteosarcoma",
+    "date": "2026-11-03",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07428993",
+    "summary": "NCT07428993 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT02473757-2026-11-03",
+    "title": "Gene Therapy Follow-up Protocol for People Previously Enrolled in CAR-T Cell Studies",
+    "date": "2026-11-03",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT02473757",
+    "summary": "NCT02473757 · 未提供 · ENROLLING_BY_INVITATION；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05201781-2026-11-03",
+    "title": "A Long-term Study for Participants Previously Treated With Ciltacabtagene Autoleucel",
+    "date": "2026-11-03",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05201781",
+    "summary": "NCT05201781 · PHASE4 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT03356795-2026-11-03",
+    "title": "Intervention of CAR-T Against Cervical Cancer",
+    "date": "2026-11-03",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT03356795",
+    "summary": "NCT03356795 · PHASE1 / PHASE2 · TERMINATED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04133636-2026-11-03",
+    "title": "A Study of JNJ-68284528, a Chimeric Antigen Receptor T Cell (CAR-T) Therapy Directed Against B-cell Maturation Antigen (BCMA) in Participants With Multiple Myeloma",
+    "date": "2026-11-03",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04133636",
+    "summary": "NCT04133636 · PHASE2 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06550895-2026-11-03",
+    "title": "A Study of Ciltacabtagene Autoleucel and Talquetamab for the Treatment of Participants With High-Risk Multiple Myeloma",
+    "date": "2026-11-03",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06550895",
+    "summary": "NCT06550895 · PHASE2 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07193966-2026-11-03",
+    "title": "NG2 and DLL3 CAR-T Cells Targeting Melanoma",
+    "date": "2026-11-03",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07193966",
+    "summary": "NCT07193966 · PHASE1 / PHASE2 · TERMINATED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07906080-2026-11-03",
+    "title": "Study to Evaluate the Feasibility and Safety of Autologous Cytokine-Induced Killer Cells (CIK_D332) in Combination With Tafasitamab and Lenalidomide in Patients With Relapsed or Refractory Diffuse Large B-Cell Lymphoma",
+    "date": "2026-11-03",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07906080",
+    "summary": "NCT07906080 · PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07040982-2026-11-03",
+    "title": "Asciminib as Maintenance Treatment After Cellular Therapies for Adults With Philadelphia Chromosome Positive Acute Lymphoblastic Leukemia",
+    "date": "2026-11-03",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07040982",
+    "summary": "NCT07040982 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42977305",
+    "title": "Integrating PET/CT and correlative biomarkers for prospective evaluation of extramedullary disease in relapsed/refractory B-ALL: implications for CAR T-cell therapy.",
+    "date": "2026-11-03",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42977305/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42975962",
+    "title": "CDH3-directed immunotherapy targets basal-like hormone receptor negative prostate cancer and breast cancer.",
+    "date": "2026-11-03",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42975962/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42975017",
+    "title": "Targeting MUC1 in colorectal cancer.",
+    "date": "2026-11-03",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42975017/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42973101",
+    "title": "CAR T and NK cell therapy for acute myeloid leukemia.",
+    "date": "2026-11-03",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42973101/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42972098",
+    "title": "Clonal hematopoiesis and cytopenias following CAR19 therapy.",
+    "date": "2026-11-03",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42972098/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42976544",
+    "title": "Next-generation chimeric antigen receptor platforms for skin cancer immunotherapy: Biological rationale, therapeutic opportunities, and precision selection strategies.",
+    "date": "2026-11-03",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42976544/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04085159-2026-11-02",
+    "title": "Immunotherapy Based on Antigen-specific Immune Effector Cells Targeting Neurofibromatosis or Schwannomatosis",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04085159",
+    "summary": "NCT04085159 · PHASE1 / PHASE2 · TERMINATED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT03435796-2026-11-02",
+    "title": "Long-Term Follow-up Protocol for Participants Treated With Gene-Modified T Cells",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT03435796",
+    "summary": "NCT03435796 · PHASE2 / PHASE3 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04033302-2026-11-02",
+    "title": "Multi-CAR T Cell Therapy Targeting CD7-positive Malignancies",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04033302",
+    "summary": "NCT04033302 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05459870-2026-11-02",
+    "title": "CAR-T Cells Targeting Autoimmune Diseases",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05459870",
+    "summary": "NCT05459870 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05432882-2026-11-02",
+    "title": "CD19/22 Bi-specific CAR-T Cell Therapy",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05432882",
+    "summary": "NCT05432882 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04433221-2026-11-02",
+    "title": "Combination Immunotherapy Targeting Sarcomas",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04433221",
+    "summary": "NCT04433221 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06435897-2026-11-02",
+    "title": "Autoimmune Disease Treatment With Mesenchymal Stem Cells (MSCs) and CAR-T Cells",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06435897",
+    "summary": "NCT06435897 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05437315-2026-11-02",
+    "title": "GD2/PSMA Bi-specific CAR-T Cell Therapy",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05437315",
+    "summary": "NCT05437315 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04429438-2026-11-02",
+    "title": "Multi-CAR-T Cells Targeting B Cell Lymphomas",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04429438",
+    "summary": "NCT04429438 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06006741-2026-11-02",
+    "title": "Universal CAR-T Cells Targeting Multiple Myeloma",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06006741",
+    "summary": "NCT06006741 · PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06435910-2026-11-02",
+    "title": "Engineered Dendritic Cell Vaccines for Multiple Myeloma",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06435910",
+    "summary": "NCT06435910 · PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05995028-2026-11-02",
+    "title": "Universal 4SCAR7U Targeting CD7-positive Malignancies",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05995028",
+    "summary": "NCT05995028 · PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT03222674-2026-11-02",
+    "title": "Multi-CAR T Cell Therapy for Acute Myeloid Leukemia",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT03222674",
+    "summary": "NCT03222674 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07180927-2026-11-02",
+    "title": "DLL3 CAR-T Therapy Targeting Brain Tumors",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07180927",
+    "summary": "NCT07180927 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04430595-2026-11-02",
+    "title": "Multi-4SCAR-T Therapy Targeting Breast Cancer",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04430595",
+    "summary": "NCT04430595 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05438368-2026-11-02",
+    "title": "GD2/CD70 Bi-specific CAR-T Cell Therapy",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05438368",
+    "summary": "NCT05438368 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04430530-2026-11-02",
+    "title": "4SCAR-T Therapy Post CD19-targeted Immunotherapy",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04430530",
+    "summary": "NCT04430530 · PHASE1 / PHASE2 · TERMINATED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05436496-2026-11-02",
+    "title": "CD19/70 Bi-specific CAR-T Cell Therapy",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05436496",
+    "summary": "NCT05436496 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05995041-2026-11-02",
+    "title": "Universal CAR-T Cells Targeting AML",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05995041",
+    "summary": "NCT05995041 · PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06245915-2026-11-02",
+    "title": "AB-2100, an Integrated Circuit T Cell Therapy in Patients With Recurrent Clear-cell Renal Cell Carcinoma (ccRCC)",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06245915",
+    "summary": "NCT06245915 · PHASE1 / PHASE2 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05262673-2026-11-02",
+    "title": "NGS-MRD Assessment of Combination Immunotherapies Targeting B-ALL",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05262673",
+    "summary": "NCT05262673 · PHASE1 · TERMINATED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07910708-2026-11-02",
+    "title": "GN001 for Relapsed or Refractory B-Cell Non-Hodgkin Lymphoma and B-Cell Acute Lymphoblastic Leukemia",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07910708",
+    "summary": "NCT07910708 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06429150-2026-11-02",
+    "title": "Frontline Combination CAR-T Cell Therapy for Multiple Myeloma or Plasmacytoma",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06429150",
+    "summary": "NCT06429150 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT03356808-2026-11-02",
+    "title": "Antigen-specific T Cells Against Lung Cancer",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT03356808",
+    "summary": "NCT03356808 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07905027-2026-11-02",
+    "title": "A Study of CLEC2A CAR T for Pediatric and Adult Patients With Relapsed or Refractory AML",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07905027",
+    "summary": "NCT07905027 · PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04016129-2026-11-02",
+    "title": "CAR-T Immunotherapy Targeting CD19- ALL",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04016129",
+    "summary": "NCT04016129 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07003295-2026-11-02",
+    "title": "Testing the Anti-cancer Drug, Glofitamab, in Patients With Mantle Cell Lymphoma (A Type of Blood Cancer) Whose Disease Returned After CAR-T Cell Therapy",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07003295",
+    "summary": "NCT07003295 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07295847-2026-11-02",
+    "title": "A Study of AZD0120 in Autoimmune Diseases",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07295847",
+    "summary": "NCT07295847 · PHASE1 / PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05437328-2026-11-02",
+    "title": "GD2/CD56 Bi-specific CAR-T Cell Therapy",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05437328",
+    "summary": "NCT05437328 · PHASE1 / PHASE2 · TERMINATED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05436509-2026-11-02",
+    "title": "CD19/79b Bi-specific CAR-T Cell Therapy",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05436509",
+    "summary": "NCT05436509 · PHASE1 / PHASE2 · TERMINATED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04010877-2026-11-02",
+    "title": "Multiple CAR-T Cell Therapy Targeting AML",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04010877",
+    "summary": "NCT04010877 · PHASE1 / PHASE2 · TERMINATED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07085104-2026-11-02",
+    "title": "A Study to Investigate the Safety and Preliminary Efficacy of ALLO-329, an Allogeneic CAR T-cell Therapy, in Adults With Autoimmune Disease",
+    "date": "2026-11-02",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07085104",
+    "summary": "NCT07085104 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42971290",
+    "title": "Breast cancer cellular and gene-based therapies: Current approaches, clinical results, and future perspectives.",
+    "date": "2026-11-02",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42971290/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42970189",
+    "title": "Real-world evidence supporting sustainable CAR-T-cell therapy-from access to long-term follow-up.",
+    "date": "2026-11-02",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42970189/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42970188",
+    "title": "T cell exhaustion in cancer.",
+    "date": "2026-11-02",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42970188/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42970186",
+    "title": "A testable framework integrates platelet engineering and injectable hydrogels with CAR T cells for localized treatment of microscopic residual disease after breast cancer surgery.",
+    "date": "2026-11-02",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42970186/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42969556",
+    "title": "Bendamustine induces peripheral lymphodepletion in dogs with relapsed lymphoma.",
+    "date": "2026-11-02",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42969556/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42971244",
+    "title": "[Systemic lupus erythematosus: new treatment targets and agents].",
+    "date": "2026-11-02",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42971244/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42969973",
+    "title": "CAR T-cell data indicate durable disease control, potential cure.",
+    "date": "2026-11-02",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42969973/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42968286",
+    "title": "Long-term outcomes and immune reconstitution after tisagenlecleucel in relapsed or refractory large B-cell lymphoma: a single-institution retrospective study in Japan with over 3 years follow-up.",
+    "date": "2026-11-02",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42968286/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42971806",
+    "title": "Engineered nanobiotechnology for cancer immunotherapy.",
+    "date": "2026-11-02",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42971806/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42967598",
+    "title": "Baseline Spleen Volume is Independently Associated With Survival After CD19-Directed Chimeric Antigen Receptor T-Cell Therapy in Relapsed/Refractory Diffuse Large B-Cell Lymphoma.",
+    "date": "2026-11-01",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42967598/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42966861",
+    "title": "Prognostic scores and biomarkers in hematologic malignancies: current evidence and future perspectives.",
+    "date": "2026-11-01",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42966861/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42966849",
+    "title": "Longitudinal psychosocial burden, quality of life, and digital supportive care preferences before and after CAR T-cell therapy: a prospective single-center observational study.",
+    "date": "2026-11-01",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42966849/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42963425",
+    "title": "BAZ2A-induced epigenetic states in cancer cells fuel palmitate accumulation in the tumor microenvironment driving CAR-T cell exhaustion.",
+    "date": "2026-10-31",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963425/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04429451-2026-10-30",
+    "title": "PSMA-specific CAR-T Cell Therapy",
+    "date": "2026-10-30",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04429451",
+    "summary": "NCT04429451 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT03050190-2026-10-30",
+    "title": "A Phase I/II Multiple Center Trial of 4SCAR19 Cells in the Treatment of Relapsed and Refractory B Cell Malignancies",
+    "date": "2026-10-30",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT03050190",
+    "summary": "NCT03050190 · NA · TERMINATED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06395103-2026-10-30",
+    "title": "Substudy 01A: Zilovertamab Vedotin in Pediatric and Young Adult Participants With Hematologic Malignancies or Solid Tumors (MK-9999-01A/LIGHTBEAM-U01)",
+    "date": "2026-10-30",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06395103",
+    "summary": "NCT06395103 · PHASE1 / PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT03356782-2026-10-30",
+    "title": "Safety and Efficacy Evaluation of 4th Generation Safety-engineered CAR T Cells Targeting Sarcomas",
+    "date": "2026-10-30",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT03356782",
+    "summary": "NCT03356782 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06500273-2026-10-30",
+    "title": "Consolidation of First-Line MRD+ Remission With Cema-cel in Patients With LBCL",
+    "date": "2026-10-30",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06500273",
+    "summary": "NCT06500273 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT03125577-2026-10-30",
+    "title": "Combination CAR-T Cell Therapy Targeting Hematological Malignancies",
+    "date": "2026-10-30",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT03125577",
+    "summary": "NCT03125577 · PHASE1 / PHASE2 · TERMINATED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06946680-2026-10-30",
+    "title": "IL-8 Receptor-modified CD70 CAR T Cell Therapy in CD70+ Newly Diagnosed and Recurrent Pediatric High-grade Glioma (pHGG) and Newly Diagnosed Diffuse Intrinsic Pontine Glioma (ndDIPG)",
+    "date": "2026-10-30",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06946680",
+    "summary": "NCT06946680 · PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06906380-2026-10-30",
+    "title": "A Long-term Follow-up Study of Patients With ARD103 CAR-T Cell Therapies",
+    "date": "2026-10-30",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06906380",
+    "summary": "NCT06906380 · 未提供 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06739226-2026-10-30",
+    "title": "Combination Immunotherapy Targeting Melanoma",
+    "date": "2026-10-30",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06739226",
+    "summary": "NCT06739226 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05319314-2026-10-30",
+    "title": "LYL273 for Patients With Relapsed or Refractory mCRC",
+    "date": "2026-10-30",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05319314",
+    "summary": "NCT05319314 · PHASE1 / PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT03271632-2026-10-30",
+    "title": "Multi-CAR T Cell Therapy in the Treatment of Multiple Myeloma",
+    "date": "2026-10-30",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT03271632",
+    "summary": "NCT03271632 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT03170141-2026-10-30",
+    "title": "Immunogene-modified T (IgT) Cells Against Glioblastoma Multiforme",
+    "date": "2026-10-30",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT03170141",
+    "summary": "NCT03170141 · PHASE1 · TERMINATED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05371132-2026-10-30",
+    "title": "Study to Evaluate CD8 PET Imaging as a Marker of Immune Response to Stereotactic Body Radiation Therapy (ELIXR)",
+    "date": "2026-10-30",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05371132",
+    "summary": "NCT05371132 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT03710421-2026-10-30",
+    "title": "CS1-CAR T Therapy Following Chemotherapy in Treating Patients With Relapsed or Refractory CS1 Positive Multiple Myeloma",
+    "date": "2026-10-30",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT03710421",
+    "summary": "NCT03710421 · PHASE1 · SUSPENDED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT02992210-2026-10-30",
+    "title": "Study on GD2 Positive Solid Tumors by 4SCAR-GD2",
+    "date": "2026-10-30",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT02992210",
+    "summary": "NCT02992210 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04637503-2026-10-30",
+    "title": "4SCAR-T Therapy Targeting GD2, PSMA and CD276 for Treating Neuroblastoma",
+    "date": "2026-10-30",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04637503",
+    "summary": "NCT04637503 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05995015-2026-10-30",
+    "title": "4SCAR19U T Cells Targeting B Cell Malignancies",
+    "date": "2026-10-30",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05995015",
+    "summary": "NCT05995015 · PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT03185468-2026-10-30",
+    "title": "Intervention of Bladder Cancer by CAR-T",
+    "date": "2026-10-30",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT03185468",
+    "summary": "NCT03185468 · PHASE1 / PHASE2 · TERMINATED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42959460",
+    "title": "Calcineurin Inhibitor-Free, mTOR-Based Immunosuppression in Chimeric Antigen Receptor T-Cell Therapy for Post-Transplant Lymphoproliferative Disorder.",
+    "date": "2026-10-30",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42959460/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42961140",
+    "title": "An Orthotopic Xenograft Model for Preclinical Evaluation of CAR T Cell Therapy in Glioblastoma.",
+    "date": "2026-10-30",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42961140/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42960358",
+    "title": "Application of rapidly prepared nonactivated high-efficiency chimeric antigen receptor T cells in the treatment of bladder cancer.",
+    "date": "2026-10-30",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42960358/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42962829",
+    "title": "CLDN18.2-targeted CAR-NK cells suppress gastric cancer growth in preclinical models.",
+    "date": "2026-10-30",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962829/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42962824",
+    "title": "In vivo chimeric antigen receptor T cell therapy: From mechanistic innovation to clinical translation.",
+    "date": "2026-10-30",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962824/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42962700",
+    "title": "Workup of Encephalopathy in Patients Receiving Cancer Immunotherapy.",
+    "date": "2026-10-30",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962700/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42962270",
+    "title": "Comparative survival and time toxicity outcomes of CAR-T versus bispecific antibody therapies in relapsed/refractory FL.",
+    "date": "2026-10-30",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962270/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42962070",
+    "title": "GD2 Induction by Combination Chromatin-Directed Inhibitors Enhances Targeting of Ewing Sarcoma and Osteosarcoma by CAR T Cells.",
+    "date": "2026-10-30",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962070/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42961088",
+    "title": "Macrophages Are Not Welcome: Potential of CCR1/CCR2 Inhibition for Cytokine Release Prevention.",
+    "date": "2026-10-30",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42961088/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42960712",
+    "title": "An overlooked Ally: Confronting the rehabilitation gap in modern cellular therapies-A scoping review with narrative synthesis of publicly available cellular therapy conference programs.",
+    "date": "2026-10-30",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42960712/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42960526",
+    "title": "Recent Advances in Synovial Sarcoma: Molecular Insights and Evolving Pharmacological Therapies.",
+    "date": "2026-10-30",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42960526/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42957590",
+    "title": "Reply to 'Interpreting day-7 CAR-T expansion in large B-cell lymphoma: Timing and baseline risk adjustment'.",
+    "date": "2026-10-30",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42957590/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42958375",
+    "title": "IL-6/CD147-augmented CAR macrophages enhance the antitumor activity of CAR-T cells in solid tumor models.",
+    "date": "2026-10-30",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42958375/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42957808",
+    "title": "Pre-transplant immunotherapy and MRD dynamics affect post-transplant prognosis in KMT2A-rearranged B-ALL patients.",
+    "date": "2026-10-30",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42957808/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42957647",
+    "title": "Safety and efficacy of port use for CAR T-cell infusion in large B-cell lymphoma.",
+    "date": "2026-10-30",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42957647/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42957637",
+    "title": "Beyond binary: graded frailty assessment and outcomes after CAR-T cell therapy in relapsed/refractory multiple myeloma.",
+    "date": "2026-10-30",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42957637/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT03226704-2026-10-29",
+    "title": "Leukapheresis for CAR or Adoptive Cell Therapy Manufacturing",
+    "date": "2026-10-29",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT03226704",
+    "summary": "NCT03226704 · 未提供 · ENROLLING_BY_INVITATION；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06615479-2026-10-29",
+    "title": "A Study to Compare the Efficacy and Safety of BMS-986393 Versus Standard Regimens in Adult Participants With Relapsed or Refractory and Lenalidomide-exposed Multiple Myeloma (QUINTESSENTIAL-2)",
+    "date": "2026-10-29",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06615479",
+    "summary": "NCT06615479 · PHASE3 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07903506-2026-10-29",
+    "title": "To Evaluate Safety and Efficacy of Anitocabtagene Autoleucel Versus Autologous Stem Cell Transplant in Newly Diagnosed Multiple Myeloma",
+    "date": "2026-10-29",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07903506",
+    "summary": "NCT07903506 · PHASE3 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04577326-2026-10-29",
+    "title": "Mesothelin-targeted CAR T-cell Therapy in Patients With Mesothelioma",
+    "date": "2026-10-29",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04577326",
+    "summary": "NCT04577326 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07509034-2026-10-29",
+    "title": "Autologous B7-H3 Chimeric Antigen Receptor T Cells in Previously Treated Extensive-Stage Small Cell Lung Cancer With Recurrent or Refractory Disease",
+    "date": "2026-10-29",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07509034",
+    "summary": "NCT07509034 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07387848-2026-10-29",
+    "title": "Glofitamab as a Bridge to and/or Consolidation Post Autologous Stem Cell Transplant in Patients With Relapsed B Cell Lymphomas",
+    "date": "2026-10-29",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07387848",
+    "summary": "NCT07387848 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07577583-2026-10-29",
+    "title": "Long-term Follow-up (LTFU) of Participants Who Received Azer-Cel",
+    "date": "2026-10-29",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07577583",
+    "summary": "NCT07577583 · 未提供 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07194980-2026-10-29",
+    "title": "Nemtabrutinib and Lisocabtagene Maraleucel for the Treatment of Relapsed/Refractory Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma",
+    "date": "2026-10-29",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07194980",
+    "summary": "NCT07194980 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT01087294-2026-10-29",
+    "title": "Administration of Anti-CD19-chimeric-antigen-receptor-transduced T Cells From the Original Transplant Donor to Patients With Recurrent or Persistent B-cell Malignancies After Allogeneic Stem Cell Transplantation",
+    "date": "2026-10-29",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT01087294",
+    "summary": "NCT01087294 · PHASE1 · COMPLETED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07905261-2026-10-29",
+    "title": "Clinical Study of SYS6055 Injection in Participants With Relapsed/Refractory B-Cell Non-Hodgkin Lymphoma",
+    "date": "2026-10-29",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07905261",
+    "summary": "NCT07905261 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07659704-2026-10-29",
+    "title": "CD19-Directed CAR-T Cell Therapy in Refractory Systemic Lupus Erythematosus",
+    "date": "2026-10-29",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07659704",
+    "summary": "NCT07659704 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04260932-2026-10-29",
+    "title": "CD19/CD20 Dual-CAR-T in B-cell Lymphoma Patients",
+    "date": "2026-10-29",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04260932",
+    "summary": "NCT04260932 · PHASE1 · TERMINATED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT02830724-2026-10-29",
+    "title": "Administering Peripheral Blood Lymphocytes Transduced With a CD70-Binding Chimeric Antigen Receptor to People With CD70 Expressing Cancers",
+    "date": "2026-10-29",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT02830724",
+    "summary": "NCT02830724 · PHASE1 / PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT03960840-2026-10-29",
+    "title": "Phase I/II Study of Rapcabtagene Autoleucel in CLL, 3L+ DLBCL, r/r ALL and 1L HR LBCL",
+    "date": "2026-10-29",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT03960840",
+    "summary": "NCT03960840 · PHASE1 / PHASE2 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42957397",
+    "title": "PET Imaging of Infection, Inflammation, and Immune-mediated Disease: From Fluorodeoxyglucose to Pathogen-specific and Immune-targeted Tracers.",
+    "date": "2026-10-29",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42957397/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42957459",
+    "title": "Practical recommendations for revaccination following BCMA-targeted therapies in adult patients with autoimmune diseases.",
+    "date": "2026-10-29",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42957459/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42956744",
+    "title": "Niche-reprogramming CAR T therapy improves skeletal muscle regeneration and function in preclinical murine models of Duchenne muscular dystrophy.",
+    "date": "2026-10-29",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42956744/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42952468",
+    "title": "Low incidence, high stakes: BCMA CAR-T and parkinsonism.",
+    "date": "2026-10-29",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42952468/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42952453",
+    "title": "Dynamics and clinical significance of coagulation abnormalities following CAR T-cell therapy.",
+    "date": "2026-10-29",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42952453/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42952451",
+    "title": "Second time's the charm: B-cell maturation antigen CAR-T after GPRC5D CAR-T cells.",
+    "date": "2026-10-29",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42952451/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42955527",
+    "title": "Translating Translation: Lessons from Zotatifin's Clinical Development and the Case for Trials in Lymphoma.",
+    "date": "2026-10-29",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42955527/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04989803-2026-10-28",
+    "title": "Study of KITE-363 or KITE-753 in Participants With Relapsed and/or Refractory B-cell Lymphoma",
+    "date": "2026-10-28",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04989803",
+    "summary": "NCT04989803 · PHASE1 / PHASE2 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07680439-2026-10-28",
+    "title": "Illuminate: A Clinical Study Evaluating CAR T Immune Cell Therapy (BCB-276) for Patients With Diffuse Intrinsic Pontine Glioma (DIPG).",
+    "date": "2026-10-28",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07680439",
+    "summary": "NCT07680439 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05620342-2026-10-28",
+    "title": "Autologous CAR T-Cells Targeting the GD2 Antigen for Lung Cancer",
+    "date": "2026-10-28",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05620342",
+    "summary": "NCT05620342 · EARLY_PHASE1 · SUSPENDED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05483491-2026-10-28",
+    "title": "KK-LC-1 TCR-T Cell Therapy for Gastric, Breast, Cervical, and Lung Cancer",
+    "date": "2026-10-28",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05483491",
+    "summary": "NCT05483491 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05784415-2026-10-28",
+    "title": "Observational Study of People Living With HIV Treated With CD19-directed CAR T Cell",
+    "date": "2026-10-28",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05784415",
+    "summary": "NCT05784415 · 未提供 · COMPLETED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT03620058-2026-10-28",
+    "title": "CART22 Alone or in Combination With huCART19 for ALL",
+    "date": "2026-10-28",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT03620058",
+    "summary": "NCT03620058 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07765966-2026-10-28",
+    "title": "Phase 1 Dose Escalation Study of RXIM002 in Autoimmune Cytopenias",
+    "date": "2026-10-28",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07765966",
+    "summary": "NCT07765966 · PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05639972-2026-10-28",
+    "title": "E7 T-cell Receptor (TCR) -T Cell Induction Therapy for Locoregionally Advanced HPV-associated Cancers",
+    "date": "2026-10-28",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05639972",
+    "summary": "NCT05639972 · PHASE1 / PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05686226-2026-10-28",
+    "title": "E7 TCR-T Cell Immunotherapy for Human Papillomavirus (HPV) Associated Cancers",
+    "date": "2026-10-28",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05686226",
+    "summary": "NCT05686226 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42948385",
+    "title": "Role of PET/CT in diffuse large B-cell lymphoma (Review).",
+    "date": "2026-10-28",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42948385/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42948579",
+    "title": "Frontier therapeutic strategies and molecular mechanisms of glioblastoma (Review).",
+    "date": "2026-10-28",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42948579/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42951714",
+    "title": "The evolving landscape of DLL3-directed Therapeutics in small cell lung cancer.",
+    "date": "2026-10-28",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42951714/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42950831",
+    "title": "Arginine rewires eIF4F translation initiation to overcome fever-induced CAR T cell dysfunction.",
+    "date": "2026-10-28",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42950831/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42950247",
+    "title": "CAR T-cell therapy referral patterns and utilization for relapsed/refractory large B-cell lymphoma in the United States.",
+    "date": "2026-10-28",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42950247/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42950111",
+    "title": "Care pathway of patients with second-line large B-cell lymphoma treated with CAR T-cell therapies in France.",
+    "date": "2026-10-28",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42950111/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42950083",
+    "title": "Multi-omics reveals evolution from CD7-negative T cell dysregulation to EBV-positive LPD after CD7 CAR-T therapy.",
+    "date": "2026-10-28",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42950083/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42950017",
+    "title": "Brain-sensing synNotch-CAR T cells enable precise targeting and clearance of diffuse midline glioma in multiple preclinical models.",
+    "date": "2026-10-28",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42950017/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42949241",
+    "title": "Venetoclax as Salvage Treatment for Relapsed/Refractory B-ALL Post-CAR-T Therapy.",
+    "date": "2026-10-28",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42949241/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42946786",
+    "title": "Rethinking therapeutic durability in cancer.",
+    "date": "2026-10-28",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42946786/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42946679",
+    "title": "Interpreting day-7 CAR-T expansion in large B-cell lymphoma: Timing and baseline risk adjustment.",
+    "date": "2026-10-28",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42946679/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06680037-2026-10-27",
+    "title": "A Study to Assess the Safety and Clinical Activity of Azer-cel in Participants With B-cell Mediated Autoimmune Disorders",
+    "date": "2026-10-27",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06680037",
+    "summary": "NCT06680037 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06480565-2026-10-27",
+    "title": "A Phase 1 Trial of ADI-270 in ccRCC",
+    "date": "2026-10-27",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06480565",
+    "summary": "NCT06480565 · PHASE1 · TERMINATED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07897136-2026-10-27",
+    "title": "CLL-1/CD70 Dual-Target CAR-T Cell Therapy for Acute Myeloid Leukemia",
+    "date": "2026-10-27",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07897136",
+    "summary": "NCT07897136 · PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06464185-2026-10-27",
+    "title": "A Prospective Clinical Study of CD3-CD20 Bisspecific Antibody Based Therapy Combined With CD19-CAR T Cells in the Treatment of Relapsed Refractory B-cell Non-Hodgkin Lymphoma",
+    "date": "2026-10-27",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06464185",
+    "summary": "NCT06464185 · PHASE1 / PHASE2 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07106710-2026-10-27",
+    "title": "ASCT Combined With BCMA CAR-T and GPRC5D/CD3 BiTEs Maintenance for Transplant-Eligible Ultra-High-Risk Multiple Myeloma",
+    "date": "2026-10-27",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07106710",
+    "summary": "NCT07106710 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07593482-2026-10-27",
+    "title": "Bendamustine Versus Fludarabine/Cyclophosphamide for Lymphodepletion in Chimeric Antigen Receptor T-cell Immunotherapy (CAR-T): a Randomized Trial.",
+    "date": "2026-10-27",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07593482",
+    "summary": "NCT07593482 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07897799-2026-10-27",
+    "title": "The METAMAX Study: MT027 Allogeneic CAR-T for Brain Metastases From Advanced Solid Tumors",
+    "date": "2026-10-27",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07897799",
+    "summary": "NCT07897799 · PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06871410-2026-10-27",
+    "title": "Genetically Engineered Cells (CD83 CAR T Cells) for the Treatment of Relapsed or Refractory Acute Myeloid Leukemia",
+    "date": "2026-10-27",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06871410",
+    "summary": "NCT06871410 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07106736-2026-10-27",
+    "title": "MRD-Adaptive Guided Immunotherapy With CAR-T for Transplant-Ineligible Patients With Multiple Myeloma",
+    "date": "2026-10-27",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07106736",
+    "summary": "NCT07106736 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06317662-2026-10-27",
+    "title": "Testing the Addition of the Anti-cancer Drug Venetoclax and/or the Anti-cancer Immunotherapy Blinatumomab to the Usual Chemotherapy Treatment for Infants With Newly Diagnosed KMT2A-rearranged or KMT2A-non-rearranged Leukemia",
+    "date": "2026-10-27",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06317662",
+    "summary": "NCT06317662 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07106684-2026-10-27",
+    "title": "ASCT Combined With BCMA CAR-T and GPRC5D/CD3 BiTEs Maintenance for Transplant-Eligible Primary Plasma Cell Leukemia",
+    "date": "2026-10-27",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07106684",
+    "summary": "NCT07106684 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07322159-2026-10-27",
+    "title": "IASO206 in Patients With Relapsed/Refractory Multiple Myeloma",
+    "date": "2026-10-27",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07322159",
+    "summary": "NCT07322159 · EARLY_PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07443137-2026-10-27",
+    "title": "CAR-T ceLL for Eradication of Active Residual Disease in LBCL (CLEAR-1 Study)",
+    "date": "2026-10-27",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07443137",
+    "summary": "NCT07443137 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42935498",
+    "title": "Gene therapy as an upcoming technique in the treatment of cancer: A cellular solution to a cellular problem.",
+    "date": "2026-10-27",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42935498/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42936485",
+    "title": "Stealthy lentiviral vectors: Breaking the barriers to systemic in vivo gene delivery.",
+    "date": "2026-10-27",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42936485/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42935544",
+    "title": "From failure to fate: Pressure-driven exhaustion in solid-tumor CAR T-cell therapy.",
+    "date": "2026-10-27",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42935544/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42935367",
+    "title": "An Australian Narrative Review of Adoptive Cellular Therapies in Malignancy: Expanding Indications, Referral Pathways and Safety Beyond Specialist Centres.",
+    "date": "2026-10-27",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42935367/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42945362",
+    "title": "Pharmacological ON/OFF Regulation of CAR T Cells through Estrogen Receptor-Based Stabilization and Targeted Degradation.",
+    "date": "2026-10-27",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42945362/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42944784",
+    "title": "[New developments in immunomodulation of idiopathic inflammatory myopathies].",
+    "date": "2026-10-27",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42944784/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42937295",
+    "title": "Hypoxia-inducible CEA-targeted CAR T-cell therapy for relapsed stage IV non-small cell lung cancer.",
+    "date": "2026-10-27",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42937295/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42936964",
+    "title": "Advances in HLA desensitization for kidney transplant candidates.",
+    "date": "2026-10-27",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42936964/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07895017-2026-10-26",
+    "title": "Time-limited Treatment With Avatrombopag Pre- and Post-CAR T-cell Therapy to Prevent Post-CAR T-cell Cytopenias",
+    "date": "2026-10-26",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07895017",
+    "summary": "NCT07895017 · PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05241392-2026-10-26",
+    "title": "Safety and Efficacy Study of Anti-B7-H3 CAR-T Cell Therapy for Recurrent Glioblastoma",
+    "date": "2026-10-26",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05241392",
+    "summary": "NCT05241392 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07246304-2026-10-26",
+    "title": "TC-D101 Cell Therapy for Patients With DLL3-Positive SCLC",
+    "date": "2026-10-26",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07246304",
+    "summary": "NCT07246304 · EARLY_PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07479797-2026-10-26",
+    "title": "Study Evaluating the Efficacy of KITE-753 Versus Axicabtagene Ciloleucel in Participants With Relapsed or Refractory Large B-Cell Lymphoma After First-Line Therapy",
+    "date": "2026-10-26",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07479797",
+    "summary": "NCT07479797 · PHASE3 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07328503-2026-10-26",
+    "title": "CD22 CAR T-cells to Extend Remission Following Commercial CD19 CAR T-cells in Children, Adolescents, and Adults With Relapsed/Refractory B-cell Acute Lymphoblastic Leukemia",
+    "date": "2026-10-26",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07328503",
+    "summary": "NCT07328503 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04530565-2026-10-26",
+    "title": "Testing the Use of Steroids and Tyrosine Kinase Inhibitors With Blinatumomab or Chemotherapy for Newly Diagnosed BCR-ABL-Positive Acute Lymphoblastic Leukemia in Adults",
+    "date": "2026-10-26",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04530565",
+    "summary": "NCT04530565 · PHASE3 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05442515-2026-10-26",
+    "title": "CD19/CD22 Bicistronic Chimeric Antigen Receptor (CAR) T Cells in Children and Young Adults With Recurrent or Refractory B Cell Malignancies",
+    "date": "2026-10-26",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05442515",
+    "summary": "NCT05442515 · PHASE1 / PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07896213-2026-10-26",
+    "title": "Metabolically Fit CD19 CAR T Cells With CD34 Selection Markers in Adults With CD19-Positive B-Cell Acute Lymphocytic Leukemia",
+    "date": "2026-10-26",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07896213",
+    "summary": "NCT07896213 · PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07212335-2026-10-26",
+    "title": "Safety and Efficacy of Umbilical Cord Blood-Derived Mesenchymal Stem Cells in the Treatment of Long-Term Cytopenia After CAR-T Therapy",
+    "date": "2026-10-26",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07212335",
+    "summary": "NCT07212335 · EARLY_PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05440409-2026-10-26",
+    "title": "CAR-Multicenter Analysis (CAR-MA): Retrospective Study to Characterize CAR T-cell Outcomes and Related Toxicities in Children and Young Adults With B-ALL",
+    "date": "2026-10-26",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05440409",
+    "summary": "NCT05440409 · 未提供 · COMPLETED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06925542-2026-10-26",
+    "title": "A Safety and Efficacy Study Evaluating CTX112 in Adult Subjects With Refractory Autoimmune Disease",
+    "date": "2026-10-26",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06925542",
+    "summary": "NCT06925542 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04981119-2026-10-26",
+    "title": "Solid Tumor Analysis for HLA Loss of Heterozygosity (LOH) and Apheresis for CAR T- Cell Manufacturing",
+    "date": "2026-10-26",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04981119",
+    "summary": "NCT04981119 · 未提供 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07030907-2026-10-26",
+    "title": "A Study to Evaluate the Safety and Efficacy of OPB-101 in Platinum-resistant Ovarian Cancer",
+    "date": "2026-10-26",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07030907",
+    "summary": "NCT07030907 · PHASE1 · TERMINATED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04545762-2026-10-26",
+    "title": "Anti-CD19 Chimeric Antigen Receptor T Cells for Treatment of Relapsed or Refractory Non-Hodgkin Lymphoma",
+    "date": "2026-10-26",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04545762",
+    "summary": "NCT04545762 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05052528-2026-10-26",
+    "title": "Fludarabine and Cyclophosphamide With or Without Rituximab Before CD19 Chimeric Antigen Receptor T Cells for the Treatment of Relapsed or Refractory Diffuse Large B-Cell Lymphoma",
+    "date": "2026-10-26",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05052528",
+    "summary": "NCT05052528 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07725406-2026-10-26",
+    "title": "Low-Dose TBI Plus CAR T-Cell Therapy for Relapsed/Refractory DLBCL and Multiple Myeloma",
+    "date": "2026-10-26",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07725406",
+    "summary": "NCT07725406 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06015880-2026-10-26",
+    "title": "Testing the Combination of Anti-cancer Drugs Mosunetuzumab, Polatuzumab Vedotin, and Lenalidomide for the Treatment of Relapsed/Refractory Diffuse Large B-Cell Lymphoma",
+    "date": "2026-10-26",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06015880",
+    "summary": "NCT06015880 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42933440",
+    "title": "Zamtocabtagene autoleucel, a tandem CD20-CD19-directed CAR T-cell therapy, for second line treatment of large B-cell lymphoma in patients ineligible for transplantation (DALY 2-EU): primary analysis of an open-label, multicentre, randomised phase 2 study.",
+    "date": "2026-10-26",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42933440/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42926298",
+    "title": "Generation of Murine Chimeric Antigen Receptor T Cells for Adoptive T Cell Therapy for Melanoma.",
+    "date": "2026-10-25",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42926298/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42927201",
+    "title": "Genome-wide CRISPRa screens identify modulators of CAR T survival across diverse tumor cytokine milieus.",
+    "date": "2026-10-25",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42927201/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06925685-2026-10-23",
+    "title": "Follow-Up for Study Participants Treated With an Allogeneic CAR T Cell Product",
+    "date": "2026-10-23",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06925685",
+    "summary": "NCT06925685 · 未提供 · ENROLLING_BY_INVITATION；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07740317-2026-10-23",
+    "title": "Neurocognitive Trajectories After BCMA CAR-T",
+    "date": "2026-10-23",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07740317",
+    "summary": "NCT07740317 · 未提供 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07892027-2026-10-23",
+    "title": "Natalizumab for the Prevention of ICANS in Patients With Recurrent or Refractory Diffuse Large B-Cell Lymphoma or Mantle Cell Lymphoma Receiving CAR T-Cell Therapy",
+    "date": "2026-10-23",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07892027",
+    "summary": "NCT07892027 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07886190-2026-10-23",
+    "title": "Symptom Monitoring and Management Intervention After CAR-T",
+    "date": "2026-10-23",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07886190",
+    "summary": "NCT07886190 · NA · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07544992-2026-10-23",
+    "title": "Locoregional Administration of Genetically Engineered Cells (EGFR/IL13Rα2 Pool-CAR T Cells) for the Treatment of Recurrent or Progressive High-Grade Gliomas",
+    "date": "2026-10-23",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07544992",
+    "summary": "NCT07544992 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04107285-2026-10-23",
+    "title": "Looking at Cognitive and Brain Changes in People With Lymphoma Receiving CAR-T Therapy",
+    "date": "2026-10-23",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04107285",
+    "summary": "NCT04107285 · 未提供 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42913294",
+    "title": "Antigen persistence after antibody-drug conjugates in urothelial carcinoma: implications for CAR-cell target selection.",
+    "date": "2026-10-23",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42913294/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42911173",
+    "title": "Molecular advancements in targeting fibroblast activation protein (FAP) in cancer therapies.",
+    "date": "2026-10-23",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42911173/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06052826-2026-10-22",
+    "title": "Geriatric Assessment Guided Interventions to Accelerate Functional Recovery After CAR-T Therapy for Patients 60 Years and Older With B-cell Non-Hodgkin Lymphoma or Multiple Myeloma, GOCART Study",
+    "date": "2026-10-22",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06052826",
+    "summary": "NCT06052826 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07890025-2026-10-22",
+    "title": "CD19 CAR-T Cell Therapy in Adults With Relapsed or Refractory B-Cell Acute Lymphoblastic Leukemia: A Phase I/II Study",
+    "date": "2026-10-22",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07890025",
+    "summary": "NCT07890025 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT02446457-2026-10-22",
+    "title": "Rituximab and Pembrolizumab With or Without Lenalidomide in Treating Patients With Relapsed Follicular Lymphoma and Diffuse Large B-Cell Lymphoma",
+    "date": "2026-10-22",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT02446457",
+    "summary": "NCT02446457 · PHASE2 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06055439-2026-10-22",
+    "title": "A Phase 1/2 Study to Evaluate CHM-2101, an Autologous Cadherin 17 Chimeric Antigen Receptor (CAR) T Cell Therapy",
+    "date": "2026-10-22",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06055439",
+    "summary": "NCT06055439 · PHASE1 / PHASE2 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04214392-2026-10-22",
+    "title": "Chimeric Antigen Receptor (CAR) T Cells With a Chlorotoxin Tumor-Targeting Domain for the Treatment of MMP2+ Recurrent or Progressive Glioblastoma",
+    "date": "2026-10-22",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04214392",
+    "summary": "NCT04214392 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07871747-2026-10-22",
+    "title": "Microbiome Intervention for CAR-T Optimization and Response (MICRO-CART)",
+    "date": "2026-10-22",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07871747",
+    "summary": "NCT07871747 · PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07711483-2026-10-22",
+    "title": "GLORY: Glofit-GemOx With Liso-Cel For Lymphoma",
+    "date": "2026-10-22",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07711483",
+    "summary": "NCT07711483 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07804004-2026-10-22",
+    "title": "A Safety and Efficacy Study Evaluating CTX112 in Subjects With Refractory Neurologic Autoimmune Disease",
+    "date": "2026-10-22",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07804004",
+    "summary": "NCT07804004 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07783477-2026-10-22",
+    "title": "A Study of Armored CAR T Cells in People With Cancer",
+    "date": "2026-10-22",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07783477",
+    "summary": "NCT07783477 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07489287-2026-10-22",
+    "title": "GB-5267 for the Treatment Platinum-Resistant Ovarian, Peritoneal, or Fallopian Tube Cancer",
+    "date": "2026-10-22",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07489287",
+    "summary": "NCT07489287 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07888530-2026-10-22",
+    "title": "Non-Interventional Study of Ranicabtagene Autoleucel Injection for Relapsed/Refractory B-cell Non-Hodgkin Lymphoma",
+    "date": "2026-10-22",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07888530",
+    "summary": "NCT07888530 · 未提供 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06815029-2026-10-22",
+    "title": "Intracranial Genetically Modified Immune Cells (TGFβR2KO/IL13Rα2 CAR T-Cells) for the Treatment of Recurrent or Progressive Glioblastoma or Grade 3 or 4 IDH-Mutant Astrocytoma",
+    "date": "2026-10-22",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06815029",
+    "summary": "NCT06815029 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07778446-2026-10-22",
+    "title": "A Study to Test CRT-402 in Refractory Autoimmune Disease",
+    "date": "2026-10-22",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07778446",
+    "summary": "NCT07778446 · PHASE1 / PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07882641-2026-10-22",
+    "title": "BEX101 in B-cell Non-Hodgkin's Lymphoma",
+    "date": "2026-10-22",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07882641",
+    "summary": "NCT07882641 · PHASE1 / PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06626919-2026-10-22",
+    "title": "Study of Anitocabtagene Autoleucel in Participants With Non-Oncology Plasma Cell-Related Diseases",
+    "date": "2026-10-22",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06626919",
+    "summary": "NCT06626919 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42903593",
+    "title": "Less is more: Low-strength type I interferon signaling enhances CAR T cell therapy.",
+    "date": "2026-10-22",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42903593/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42904142",
+    "title": "Intelligent immunotherapy: AI-driven optimization of CAR-T therapy in hematologic malignancies.",
+    "date": "2026-10-22",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42904142/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07887672-2026-10-21",
+    "title": "A Trial to Evaluate Safety and Efficacy of Anitocabtagene Autoleucel Versus Standard of Care in Newly Diagnosed Multiple Myeloma",
+    "date": "2026-10-21",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07887672",
+    "summary": "NCT07887672 · PHASE3 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05911217-2026-10-21",
+    "title": "A Study to Evaluate the Efficacy and Safety of CT041 After Adjuvant Chemotherapy for Pancreatic Cancer",
+    "date": "2026-10-21",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05911217",
+    "summary": "NCT05911217 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07735637-2026-10-21",
+    "title": "A Phase III, Multicentre Study to Evaluate Consolidation Treatment With AZD0120 Compared With ASCT, in Participants With Newly Diagnosed Multiple Myeloma Who Are Transplant Eligible (DURGA-6).",
+    "date": "2026-10-21",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07735637",
+    "summary": "NCT07735637 · PHASE3 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07347418-2026-10-20",
+    "title": "CD64 CAR T Cell Therapy in Adults With Relapsed and/or Refractory AML",
+    "date": "2026-10-20",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07347418",
+    "summary": "NCT07347418 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07883135-2026-10-20",
+    "title": "Bispecific Antibody-Based Holding/Bridging Therapy Before CAR-T in Aggressive B-Cell Lymphomas",
+    "date": "2026-10-20",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07883135",
+    "summary": "NCT07883135 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07883941-2026-10-20",
+    "title": "Phase I Safety Clinical Trial of Anti-CD19 CAR-T Therapy COL01 for the Treatment of Adults With Relapsed or Refractory B-cell Lymphoid Neoplasms: First-in-human Administration, COLIBRI.",
+    "date": "2026-10-20",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07883941",
+    "summary": "NCT07883941 · PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07882732-2026-10-20",
+    "title": "RPM Signals in Outpatient CAR T Therapy",
+    "date": "2026-10-20",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07882732",
+    "summary": "NCT07882732 · 未提供 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06834373-2026-10-20",
+    "title": "Golcadomide and Rituximab as Bridging Therapy for Relapsed or Refractory Aggressive B-cell Non-Hodgkin Lymphoma Before CAR T-cell Therapy",
+    "date": "2026-10-20",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06834373",
+    "summary": "NCT06834373 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07549698-2026-10-20",
+    "title": "Safety and Preliminary Efficacy of CTX112 in Adult Participants With Relapsed/Refractory Hematologic Autoimmune Disease",
+    "date": "2026-10-20",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07549698",
+    "summary": "NCT07549698 · PHASE1 / PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05146336-2026-10-20",
+    "title": "CytOSorb TreatMent Of Critically Ill PatientS Registry",
+    "date": "2026-10-20",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05146336",
+    "summary": "NCT05146336 · 未提供 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06080191-2026-10-20",
+    "title": "Allogeneic Second-generation CD19-CAR T Cells for Pediatric Relapsed/Refractory B-ALL",
+    "date": "2026-10-20",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06080191",
+    "summary": "NCT06080191 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42898331",
+    "title": "Minibeam radiation therapy supports CAR T therapy in a rat model of CNS lymphoma.",
+    "date": "2026-10-20",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42898331/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42897795",
+    "title": "Domain Shuffling Builds Synthetic Genes that Boost CAR T-Cell Design.",
+    "date": "2026-10-20",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42897795/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42898659",
+    "title": "Application of CAR-T cell therapy in orthopedics: From bone malignancies to non-malignant musculoskeletal disorders.",
+    "date": "2026-10-20",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42898659/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07473154-2026-10-19",
+    "title": "Controlling Hyperactive Immunity With Long-lived Lymphocytes",
+    "date": "2026-10-19",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07473154",
+    "summary": "NCT07473154 · PHASE1 / PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06359041-2026-10-19",
+    "title": "RESET-MG: A Study to Evaluate the Safety and Efficacy of CABA-201 in Participants With Generalized Myasthenia Gravis",
+    "date": "2026-10-19",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06359041",
+    "summary": "NCT06359041 · PHASE1 / PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06179888-2026-10-19",
+    "title": "Iberdomide Versus Observation Off Therapy After Idecabtagene Vicleucel CAR-T for Multiple Myeloma",
+    "date": "2026-10-19",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06179888",
+    "summary": "NCT06179888 · PHASE2 · SUSPENDED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07413341-2026-10-19",
+    "title": "A Clinical Study of TI-0032-III Injection in Patients With Relapsed and Refractory Autoimmune Diseases",
+    "date": "2026-10-19",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07413341",
+    "summary": "NCT07413341 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07304154-2026-10-19",
+    "title": "Study of KITE-363 in Participants With Autoimmune Neurologic Diseases That Did Not Respond to Usual Treatment",
+    "date": "2026-10-19",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07304154",
+    "summary": "NCT07304154 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07564401-2026-10-19",
+    "title": "A Study to Evaluate DJI136, a DLL3-targeted CAR-T Therapy",
+    "date": "2026-10-19",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07564401",
+    "summary": "NCT07564401 · PHASE1 / PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04637763-2026-10-19",
+    "title": "CRISPR-Edited Allogeneic Anti-CD19 CAR-T Cell Therapy for Relapsed/Refractory B Cell Non-Hodgkin Lymphoma (ANTLER)",
+    "date": "2026-10-19",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04637763",
+    "summary": "NCT04637763 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42894313",
+    "title": "Glioblastoma immune landscape remodeling following treatment with CD70-targeted CAR-T cells.",
+    "date": "2026-10-19",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894313/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42896926",
+    "title": "Innovative therapies in rheumatoid arthritis: CAR T cells and bispecific antibodies.",
+    "date": "2026-10-19",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42896926/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42896923",
+    "title": "Colitis in a patient with SLE treated with CAR T cells: LICATS or not?",
+    "date": "2026-10-19",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42896923/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42896922",
+    "title": "CAR T cells in autoimmunity: safety first.",
+    "date": "2026-10-19",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42896922/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42890454",
+    "title": "In vivo CAR-T for the treatment of autoimmune diseases: Current progress and future directions.",
+    "date": "2026-10-17",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42890454/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42890208",
+    "title": "Anti-PD-L1 scFv-secreting fifth-generation GD2-CAR T cells enhance antitumor function against GD2-low retinoblastoma.",
+    "date": "2026-10-17",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42890208/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05969002-2026-10-16",
+    "title": "Pilot Prospective Study for PET-CT Imaging in Participants With Relapsed/Refractory Acute Leukemias",
+    "date": "2026-10-16",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05969002",
+    "summary": "NCT05969002 · 未提供 · COMPLETED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06865664-2026-10-16",
+    "title": "FGFR4 Chimeric Antigen Receptor (CAR) T Cells in Children and Young Adults With Recurrent or Refractory Rhabdomyosarcoma",
+    "date": "2026-10-16",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06865664",
+    "summary": "NCT06865664 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06364423-2026-10-16",
+    "title": "Anti-CD19 Chimeric Antigen Receptor T-Cell Immunotherapy for Leukemias",
+    "date": "2026-10-16",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06364423",
+    "summary": "NCT06364423 · PHASE1 / PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04815356-2026-10-16",
+    "title": "Phase I Study of Anti-CD22 Chimeric Receptor T Cells in Patients With Relapsed/Refractory Hairy Cell Leukemia and Variant",
+    "date": "2026-10-16",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04815356",
+    "summary": "NCT04815356 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05797233-2026-10-16",
+    "title": "Trial of Anti-CD19 and Anti-CD20 Bicistronic Chimeric Antigen Receptor T Cells for Treating B-Cell Malignancies",
+    "date": "2026-10-16",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05797233",
+    "summary": "NCT05797233 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05003895-2026-10-16",
+    "title": "GPC3 Targeted CAR-T Cell Therapy in Advanced GPC3 Expressing Solid Tumor Malignancies",
+    "date": "2026-10-16",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05003895",
+    "summary": "NCT05003895 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07022197-2026-10-16",
+    "title": "Safety and Efficacy of BAFF-R CART for Refractory Neuroimmune Diseases",
+    "date": "2026-10-16",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07022197",
+    "summary": "NCT07022197 · PHASE1 / PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07162571-2026-10-16",
+    "title": "This is a Phase I/II Interventional, Open-label Treatment Study Designed to Evaluate the Safety and Efficacy of Anti CD 19/22 CAR- T Cells Immunotherapy for Adults With Relapsed or Refractory Acute Lymphoblastic Leukemia/Lymphoma.",
+    "date": "2026-10-16",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07162571",
+    "summary": "NCT07162571 · PHASE1 / PHASE2 · ENROLLING_BY_INVITATION；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05664217-2026-10-16",
+    "title": "NKTR-255 vs Placebo Following CD19-directed CAR-T Therapy in Patients With Relapsed/Refractory Large B-cell Lymphoma",
+    "date": "2026-10-16",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05664217",
+    "summary": "NCT05664217 · PHASE2 / PHASE3 · TERMINATED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07162038-2026-10-16",
+    "title": "Phase I Trial Integrating HLA-Haploidentical Anti-CD19 CAR-T Cells With Post-Transplantation Cyclophosphamide-Based HLA-Haploidentical Hematopoietic Cell Transplantation",
+    "date": "2026-10-16",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07162038",
+    "summary": "NCT07162038 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07055477-2026-10-16",
+    "title": "A Phase I Trial Anti-CC Chemokine Receptor 4 Chimeric Antigen Receptor T Cells (CCR4 CAR T Cells) for CCR4 Expressing T-cell Malignancies Including Peripheral T-cell Non-Hodgkin Lymphoma (PTCL) and Cutaneous T-cell Non-Hodgkin Lymphoma (CTCL)",
+    "date": "2026-10-16",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07055477",
+    "summary": "NCT07055477 · PHASE1 · SUSPENDED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07344311-2026-10-16",
+    "title": "A Phase I Trial of A-CAR032 in Participants With mCRPC",
+    "date": "2026-10-16",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07344311",
+    "summary": "NCT07344311 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06788964-2026-10-16",
+    "title": "Loncastuximab Tesirine and Rituximab as Bridging Therapy Before Standard-of-care CAR-T Therapy in Patients With Large B-cell Lymphoma (CORAL)",
+    "date": "2026-10-16",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06788964",
+    "summary": "NCT06788964 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07569263-2026-10-16",
+    "title": "IL-8 Receptor Modified Patient-Derived Activated CD70 CAR T Cell Therapy in Adults With Brain Metastases",
+    "date": "2026-10-16",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07569263",
+    "summary": "NCT07569263 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07477912-2026-10-16",
+    "title": "Anti BCMA CAR- T Cell Therapy for Adults With Relapsed or Refractory Multiple Myeloma",
+    "date": "2026-10-16",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07477912",
+    "summary": "NCT07477912 · PHASE1 / PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06328777-2026-10-16",
+    "title": "RESET-SSc: An Open-Label Study to Evaluate the Safety and Efficacy of CABA-201, a CD19-CAR T Cell Therapy, in Subjects With Systemic Sclerosis",
+    "date": "2026-10-16",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06328777",
+    "summary": "NCT06328777 · PHASE2 / PHASE3 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07638982-2026-10-16",
+    "title": "Axatilimab + CAR-T for High-Risk Lymphoma",
+    "date": "2026-10-16",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07638982",
+    "summary": "NCT07638982 · PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07333430-2026-10-16",
+    "title": "Study of Naive HBI0101 CAR-T Therapy in Relapsed/Refractory Multiple Myeloma",
+    "date": "2026-10-16",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07333430",
+    "summary": "NCT07333430 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07488923-2026-10-16",
+    "title": "A First-in-human (FIH), Phase 1 Study of ML261, an Autologous Potency Enhanced Anti-DLL3 CAR T Cell Therapy, in Participants With R/R SCLC or Select NECs (SPECTRAL-1)",
+    "date": "2026-10-16",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07488923",
+    "summary": "NCT07488923 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07297667-2026-10-16",
+    "title": "GCAR1, a Chimeric Antigen Receptor (CAR) T-CELL Therapy for Relapsed/Refractory GPNMB-Expressing Solid Tumours",
+    "date": "2026-10-16",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07297667",
+    "summary": "NCT07297667 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42886051",
+    "title": "Non-Relapse Mortality With Bispecific Antibodies in Hematologic Malignancies: A Dual Systematic Review and Pharmacovigilance Analysis.",
+    "date": "2026-10-16",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42886051/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06623396-2026-10-15",
+    "title": "A Study of Mesothelin-Targeted CAR T-Cell Therapy in People With Esophagogastric Cancer or Malignant Peritoneal Mesothelioma",
+    "date": "2026-10-15",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06623396",
+    "summary": "NCT06623396 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05633615-2026-10-15",
+    "title": "Testing Drug Treatments After CAR T-cell Therapy in Patients With Relapsed/Refractory Diffuse Large B-cell Lymphoma",
+    "date": "2026-10-15",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05633615",
+    "summary": "NCT05633615 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06004167-2026-10-15",
+    "title": "Adaptive Bridging RT in R/R B-cell Lymphoma (Pre-CAR T)",
+    "date": "2026-10-15",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06004167",
+    "summary": "NCT06004167 · NA · COMPLETED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07200089-2026-10-15",
+    "title": "Recombinant Human IL-7 (NT-I7) in Relapsed/Refractory Multiple Myeloma Following BCMA CAR-T Therapy (Cilta-cel)",
+    "date": "2026-10-15",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07200089",
+    "summary": "NCT07200089 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07604792-2026-10-15",
+    "title": "FIT-(BCMA+CD19)-CAR-T Cells in Recurrent/Refractory Autoimmune Diseases Patients.",
+    "date": "2026-10-15",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07604792",
+    "summary": "NCT07604792 · EARLY_PHASE1 · WITHDRAWN；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07681596-2026-10-15",
+    "title": "A Modular, Phase I/II, Multicentre Study to Evaluate AZD4045, in Participants With Relapsed or Refractory Multiple Myeloma",
+    "date": "2026-10-15",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07681596",
+    "summary": "NCT07681596 · PHASE1 / PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07361094-2026-10-15",
+    "title": "Autologous CD19/BCMA Dual-Target CAR-T for Relapsed/Refractory Autoimmune Diseases",
+    "date": "2026-10-15",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07361094",
+    "summary": "NCT07361094 · PHASE1 · WITHDRAWN；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06993493-2026-10-15",
+    "title": "Autologous CD19CAR-T Therapy for Recurrent/Refractory Autoimmune Diseases",
+    "date": "2026-10-15",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06993493",
+    "summary": "NCT06993493 · NA · WITHDRAWN；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06154252-2026-10-15",
+    "title": "RESET-Myositis: An Open-Label Study to Evaluate the Safety and Efficacy of CABA-201 in Subjects With Active Idiopathic Inflammatory Myopathy or Juvenile Idiopathic Inflammatory Myopathy",
+    "date": "2026-10-15",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06154252",
+    "summary": "NCT06154252 · PHASE2 / PHASE3 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07875413-2026-10-15",
+    "title": "Prizloncabtagene Autoleucel (Prizlon-cel) for the Treatment of Relapsed or Refractory Large B-cell Lymphoma Post FDA Approved CAR T-cell Therapy",
+    "date": "2026-10-15",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07875413",
+    "summary": "NCT07875413 · PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07448298-2026-10-15",
+    "title": "A Clinical Study of AFN50 in the Treatment of Autoimmune Diseases",
+    "date": "2026-10-15",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07448298",
+    "summary": "NCT07448298 · EARLY_PHASE1 · WITHDRAWN；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07200102-2026-10-15",
+    "title": "Selinexor Maintenance Post CAR-T Cell Therapy for Multiple Myeloma",
+    "date": "2026-10-15",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07200102",
+    "summary": "NCT07200102 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05798117-2026-10-15",
+    "title": "An Open-label, Study to Assess Safety, Efficacy and Cellular Kinetics of YTB323 in Severe, Refractory Systemic Lupus Erythematosus",
+    "date": "2026-10-15",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05798117",
+    "summary": "NCT05798117 · PHASE1 / PHASE2 · COMPLETED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06661811-2026-10-15",
+    "title": "A Study of CAR-T Cells Targeting Autoimmune Diseases",
+    "date": "2026-10-15",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06661811",
+    "summary": "NCT06661811 · NA · WITHDRAWN；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04422912-2026-10-15",
+    "title": "A Phase 1/2, Open-label, Safety and Dosing Study of Autologous CART Cells (Desmoglein 3 Chimeric Autoantibody Receptor T Cells [DSG3-CAART] or CD19-specific Chimeric Antigen Receptor T Cells [CABA-201]) in Subjects With Active, Pemphigus Vulgaris (RESET-PV)",
+    "date": "2026-10-15",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04422912",
+    "summary": "NCT04422912 · PHASE1 / PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06528301-2026-10-15",
+    "title": "A Phase 1 Study of UB-VV111 With and Without Rapamycin in Relapsed/Refractory CD19+ B-cell Malignancies",
+    "date": "2026-10-15",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06528301",
+    "summary": "NCT06528301 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04510051-2026-10-15",
+    "title": "CAR T Cells After Lymphodepletion for the Treatment of IL13Rα2 Positive Recurrent or Refractory Brain Tumors in Children",
+    "date": "2026-10-15",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04510051",
+    "summary": "NCT04510051 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07532525-2026-10-15",
+    "title": "Pomalidomide After CAR T-cell Therapy for the Treatment of Relapsed or Refractory CD19+ B-cell Leukemia or Lymphoma",
+    "date": "2026-10-15",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07532525",
+    "summary": "NCT07532525 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06983964-2026-10-15",
+    "title": "Safety and Efficacy of CD19 CAR-T Therapy for Recurrent/Refractory Autoimmune Diseases",
+    "date": "2026-10-15",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06983964",
+    "summary": "NCT06983964 · NA · WITHDRAWN；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42875546",
+    "title": "Compartment-specific PPARδ activity controls the outcome of cancer-immune cell competition and immunotherapy efficacy.",
+    "date": "2026-10-15",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42875546/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05909059-2026-10-14",
+    "title": "CAR T-cell Therapy in Patients With Renal Dysfunction",
+    "date": "2026-10-14",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05909059",
+    "summary": "NCT05909059 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07873476-2026-10-14",
+    "title": "Real-world Clinical Effectiveness & Safety LV009, an in Vivo CAR-T for the Treatment of Hematologic Cancers, Auto-immune Diseases & HLA/ AAV Sensitization.",
+    "date": "2026-10-14",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07873476",
+    "summary": "NCT07873476 · 未提供 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07493395-2026-10-14",
+    "title": "Phase IIa Trial of Anti-CD19 CAR T-Cells in Systemic Sclerosis Resistant to Immunosuppressive Therapy",
+    "date": "2026-10-14",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07493395",
+    "summary": "NCT07493395 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07873931-2026-10-14",
+    "title": "A Study of BMS-986553 in Participants With Refractory Autoimmune Diseases",
+    "date": "2026-10-14",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07873931",
+    "summary": "NCT07873931 · PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07873996-2026-10-14",
+    "title": "Tris-CAR-T Cell Therapy Targeting CD44 and CD133 in Newly Diagnosed Glioblastoma",
+    "date": "2026-10-14",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07873996",
+    "summary": "NCT07873996 · PHASE2 / PHASE3 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06208735-2026-10-14",
+    "title": "CLIC-2201 for the Treatment of Relapsed/Refractory B Cell Malignancies",
+    "date": "2026-10-14",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06208735",
+    "summary": "NCT06208735 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07231081-2026-10-14",
+    "title": "Phase I Study of TX103 CAR-T Cells in Participants With Advanced Solid Tumors",
+    "date": "2026-10-14",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07231081",
+    "summary": "NCT07231081 · PHASE1 · SUSPENDED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07341191-2026-10-14",
+    "title": "Sonrotoclax Plus Zanubrutinib in Patients With Relapsed/Refractory Mantle Cell Lymphoma Planned for Standard of Care CAR-T Cell Therapy",
+    "date": "2026-10-14",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07341191",
+    "summary": "NCT07341191 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06653556-2026-10-14",
+    "title": "A Study of LCAR-AIO in Subjects With Relapsed/Refractory Systemic Lupus Erythematosus",
+    "date": "2026-10-14",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06653556",
+    "summary": "NCT06653556 · EARLY_PHASE1 · COMPLETED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04648046-2026-10-14",
+    "title": "CAR-T Cells for HIV Infection",
+    "date": "2026-10-14",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04648046",
+    "summary": "NCT04648046 · PHASE1 / PHASE2 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07648264-2026-10-14",
+    "title": "Single-arm Study of IgPro20 in Adults With Secondary Immune Deficiencies Due to Hematologic Malignancies Treated With B-cell Targeting Chimeric Antigen Receptor T-cell and T-cell Redirecting Therapies",
+    "date": "2026-10-14",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07648264",
+    "summary": "NCT07648264 · PHASE3 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07386002-2026-10-14",
+    "title": "The GLIOMAX Study: MT027 Allogeneic CAR-T for Recurrent Glioma",
+    "date": "2026-10-14",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07386002",
+    "summary": "NCT07386002 · PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07052383-2026-10-14",
+    "title": "Safety and Efficacy of DIT309 in Advanced Bone and Soft Tissue Sarcomas",
+    "date": "2026-10-14",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07052383",
+    "summary": "NCT07052383 · PHASE1 · SUSPENDED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42869985",
+    "title": "CRISPRa screen unveils noncanonical NF-κB to boost the antitumor activity of TCR-based CAR-T cells.",
+    "date": "2026-10-14",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42869985/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05768880-2026-10-13",
+    "title": "Study of B7-H3, EGFR806, HER2, And IL13-Zetakine (Quad) CAR T Cell Locoregional Immunotherapy For Pediatric Diffuse Intrinsic Pontine Glioma, Diffuse Midline Glioma, And Recurrent Or Refractory Central Nervous System Tumors",
+    "date": "2026-10-13",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05768880",
+    "summary": "NCT05768880 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07249528-2026-10-13",
+    "title": "A Study of Voice as a Way to Monitor for Side Effects in People Receiving CAR T-Cell Therapy",
+    "date": "2026-10-13",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07249528",
+    "summary": "NCT07249528 · 未提供 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07555561-2026-10-13",
+    "title": "Autologous CD19-CD20-NKG2D-nsBicephali CAR-T for Relapsed/Refractory Central Nervous System Lymphoma",
+    "date": "2026-10-13",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07555561",
+    "summary": "NCT07555561 · PHASE1 · WITHDRAWN；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07854483-2026-10-13",
+    "title": "C-CAR168, an Autologous Anti-CD20/BCMA Chimeric Antigen Receptor T-Cell Therapy, in Participants With Systemic Sclerosis (SSc) Refractory to Standard Therapy",
+    "date": "2026-10-13",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07854483",
+    "summary": "NCT07854483 · PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07729826-2026-10-13",
+    "title": "C-CAR168, an Autologous Anti-CD20/BCMA Chimeric Antigen Receptor T-Cell Therapy, in Participants With Lupus Nephritis Refractory to Standard Therapy",
+    "date": "2026-10-13",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07729826",
+    "summary": "NCT07729826 · PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06590246-2026-10-13",
+    "title": "A Study to Evaluate C-CAR031 in Glypican-3 (GPC3)+ Advanced/Recurrent Hepatocellular Carcinoma (HCC)",
+    "date": "2026-10-13",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06590246",
+    "summary": "NCT06590246 · PHASE1 / PHASE2 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07008378-2026-10-13",
+    "title": "A Study to Evaluate the Safety, Tolerability, Cellular Kinetics, and Pharmacodynamics of P-CD19CD20-ALLO1 in Participants With Multiple Sclerosis",
+    "date": "2026-10-13",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07008378",
+    "summary": "NCT07008378 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04219163-2026-10-13",
+    "title": "Chimeric Antigen Receptor T-cells for The Treatment of AML Expressing CLL-1 Antigen",
+    "date": "2026-10-13",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04219163",
+    "summary": "NCT04219163 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07626476-2026-10-13",
+    "title": "Autologous BCMA-targeted CAR-T Cell Injection for Relapsed/Refractory Light Chain Amyloidosis",
+    "date": "2026-10-13",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07626476",
+    "summary": "NCT07626476 · EARLY_PHASE1 · WITHDRAWN；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT03684889-2026-10-13",
+    "title": "CD19-specific CAR T Cells With a Fully Human Binding Domain for CD19+ Leukemia or Lymphoma",
+    "date": "2026-10-13",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT03684889",
+    "summary": "NCT03684889 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04385173-2026-10-13",
+    "title": "Pilot Study of B7-H3 CAR-T in Treating Patients With Recurrent and Refractory Glioblastoma",
+    "date": "2026-10-13",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04385173",
+    "summary": "NCT04385173 · PHASE1 · COMPLETED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07825389-2026-10-13",
+    "title": "C-CAR168, an Autologous Anti-CD20/BCMA Chimeric Antigen Receptor T-Cell Therapy, in Participants With Progressive Multiple Sclerosis Refractory to Standard Therapy",
+    "date": "2026-10-13",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07825389",
+    "summary": "NCT07825389 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42864252",
+    "title": "Supportive Care in Multiple Myeloma: Evidence-Based Recommendations From the Intergroupe Francophone du Myélome (IFM).",
+    "date": "2026-10-13",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42864252/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42862024",
+    "title": "CD19 CAR T-cell Escape in Large B-cell Lymphoma: Antigen Density Matters after All.",
+    "date": "2026-10-12",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862024/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42859877",
+    "title": "Accelerated Glofitamab as Urgent Bridging to CAR T-Cell Therapy in High-Risk Relapsed/Refractory Large B-Cell Lymphoma.",
+    "date": "2026-10-11",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42859877/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06026319-2026-10-09",
+    "title": "CD79b-19 CAR T Cells in Non-Hodgkin Lymphoma",
+    "date": "2026-10-09",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06026319",
+    "summary": "NCT06026319 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07087002-2026-10-09",
+    "title": "GPC2-CAR T Cell Therapy for Relapsed or Refractory Medulloblastoma in Children and Young Adults",
+    "date": "2026-10-09",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07087002",
+    "summary": "NCT07087002 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07333261-2026-10-09",
+    "title": "Study of BMS-986453 in Newly Diagnosed Multiple Myeloma",
+    "date": "2026-10-09",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07333261",
+    "summary": "NCT07333261 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07676877-2026-10-09",
+    "title": "Lymphodepletion With Low Dose Total Body Irradiation Before Standard of Care Tisagenlecleucel for the Treatment of Relapsed and Recurrent Large B-cell Lymphoma",
+    "date": "2026-10-09",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07676877",
+    "summary": "NCT07676877 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06508775-2026-10-09",
+    "title": "Long-Term Follow-up of Patients Treated With Miltenyi Cell and Gene Therapies",
+    "date": "2026-10-09",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06508775",
+    "summary": "NCT06508775 · NA · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05326243-2026-10-09",
+    "title": "Phase 1/2 Study of CD19 Chimeric Antigen Receptor T-cell (CD19 CAR-T; PL001) for Relapsed or Refractory B-cell Lymphoma",
+    "date": "2026-10-09",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05326243",
+    "summary": "NCT05326243 · PHASE1 / PHASE2 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07564232-2026-10-09",
+    "title": "Phase 1 Study Of LNK001 In Advanced Or Metastatic Clear Cell Renal Cell Carcinoma",
+    "date": "2026-10-09",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07564232",
+    "summary": "NCT07564232 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07735533-2026-10-09",
+    "title": "A Phase 1/2 Study of UB-VV400 With Rapamycin in Relapsed/Refractory B-cell Malignancies",
+    "date": "2026-10-09",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07735533",
+    "summary": "NCT07735533 · PHASE1 / PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06173518-2026-10-09",
+    "title": "A Study of CD19 Targeted CAR T Cell Therapy in Pediatric Patients With Relapsed or Refractory B Cell Acute Lymphoblastic Leukemia (B ALL) and Aggressive Mature B-cell Non-Hodgkin Lymphoma (B NHL)",
+    "date": "2026-10-09",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06173518",
+    "summary": "NCT06173518 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT03853616-2026-10-09",
+    "title": "MB-CART19.1 r/r CD19+ B-cell Malignancies (BCM)",
+    "date": "2026-10-09",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT03853616",
+    "summary": "NCT03853616 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07612787-2026-10-09",
+    "title": "A Multicenter Study of Belantamab Mafodotin and Mezigdomide in Patients With Relapsed Multiple Myeloma",
+    "date": "2026-10-09",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07612787",
+    "summary": "NCT07612787 · PHASE1 / PHASE2 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42854918",
+    "title": "Focused ultrasound for reshaping the immune microenvironment in glioblastoma.",
+    "date": "2026-10-09",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854918/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42850288",
+    "title": "Validation and analysis of 12,000 AI-driven CAR-T designs in the Bits to Binders competition.",
+    "date": "2026-10-09",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42850288/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42850287",
+    "title": "Crowdsourcing functional cell therapy binders from generative artificial intelligence.",
+    "date": "2026-10-09",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42850287/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT03618381-2026-10-08",
+    "title": "EGFR806 CAR T Cell Immunotherapy for Recurrent/Refractory Solid Tumors in Children and Young Adults",
+    "date": "2026-10-08",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT03618381",
+    "summary": "NCT03618381 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05312411-2026-10-08",
+    "title": "A Phase I Feasibility And Safety Study of Fluorescein-Specific (FITC-E2) CAR T Cells In Combination With Parenterally Administered Folate-Fluorescein (UB-TT170) For Osteogenic Sarcoma",
+    "date": "2026-10-08",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05312411",
+    "summary": "NCT05312411 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05707273-2026-10-08",
+    "title": "CD19-Car T Cell Therapy for the Treatment of Older Adults With Acute Lymphoblastic Leukemia in First Remission",
+    "date": "2026-10-08",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05707273",
+    "summary": "NCT05707273 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT03827343-2026-10-08",
+    "title": "Retrospective Study of Immunotherapy Related Toxicities and Factors Impacting Outcomes in Children and Adults With Cancer",
+    "date": "2026-10-08",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT03827343",
+    "summary": "NCT03827343 · 未提供 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06056102-2026-10-08",
+    "title": "CAR-T Cell Therapy for Desensitization in Kidney Transplantation",
+    "date": "2026-10-08",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06056102",
+    "summary": "NCT06056102 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07403812-2026-10-08",
+    "title": "Assessing DCog Short for Neurotoxicity in CAR-T",
+    "date": "2026-10-08",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07403812",
+    "summary": "NCT07403812 · NA · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05850234-2026-10-08",
+    "title": "AZD0120 in Relapsed/Refractory Multiple Myeloma (DURGA-1)",
+    "date": "2026-10-08",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05850234",
+    "summary": "NCT05850234 · PHASE1 / PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05621096-2026-10-08",
+    "title": "Low Dose Radiation as Bridging Therapy in Relapsed B-Cell Non-Hodgkin Lymphoma",
+    "date": "2026-10-08",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05621096",
+    "summary": "NCT05621096 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42849114",
+    "title": "Engineering CAR-T cell therapies for digestive tract cancer: advances, challenges, and strategies to overcome tumor heterogeneity and immunosuppressive barriers.",
+    "date": "2026-10-08",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42849114/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42847438",
+    "title": "Early Integration of CAR T-Cell Therapy in Mantle Cell Lymphoma: Expert Opinion in the Era of BTK Inhibitors.",
+    "date": "2026-10-08",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42847438/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07862010-2026-10-07",
+    "title": "Study of GI001 in Relapsed or Refractory B-Cell Non-Hodgkin Lymphoma and B-Cell Acute Lymphoblastic Leukemia",
+    "date": "2026-10-07",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07862010",
+    "summary": "NCT07862010 · EARLY_PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07116057-2026-10-07",
+    "title": "MOv19-BBz CAR T Cells in FRa+ Cancers",
+    "date": "2026-10-07",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07116057",
+    "summary": "NCT07116057 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT03070327-2026-10-07",
+    "title": "BCMA Targeted CAR T Cells With or Without Lenalidomide for the Treatment of Multiple Myeloma",
+    "date": "2026-10-07",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT03070327",
+    "summary": "NCT03070327 · PHASE1 · COMPLETED；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04888338-2026-10-07",
+    "title": "Outcomes After Chimeric Antigen Receptor Therapy and Radiation Therapy for Hematologic Malignancies",
+    "date": "2026-10-07",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04888338",
+    "summary": "NCT04888338 · 未提供 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT07335328-2026-10-07",
+    "title": "Fully Human Bispecific Anti-CD20, Anti-CD19 CAR T Cells for Patients With Relapsed and/or Refractory B Cell Malignancies",
+    "date": "2026-10-07",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT07335328",
+    "summary": "NCT07335328 · PHASE1 · NOT_YET_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT04745559-2026-10-07",
+    "title": "Optimizing Cellular and Humoral Immunity by Vaccinating With PCV13 Before and After CAR-T Therapy",
+    "date": "2026-10-07",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT04745559",
+    "summary": "NCT04745559 · PHASE2 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42841327",
+    "title": "Bridging the gap in cell and gene therapy: addressing operational and financial barriers to achieve sustainable access.",
+    "date": "2026-10-07",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42841327/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06121297-2026-10-06",
+    "title": "RESET-SLE: A Phase 1/2 Open-Label Study to Evaluate the Safety and Efficacy of CABA-201 in Subjects With Active Systemic Lupus Erythematosus",
+    "date": "2026-10-06",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06121297",
+    "summary": "NCT06121297 · PHASE1 / PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05336383-2026-10-06",
+    "title": "Phase II Study of Salvage Radiation Treatment After B-cell Maturation Antigen Chimeric Antigen Receptor T-cell Therapy for Relapsed Refractory Multiple Myeloma",
+    "date": "2026-10-06",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05336383",
+    "summary": "NCT05336383 · PHASE2 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06017258-2026-10-06",
+    "title": "A Study of CD371-YSNVZIL-18 CAR T Cells in People With Acute Myeloid Leukemia",
+    "date": "2026-10-06",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06017258",
+    "summary": "NCT06017258 · PHASE1 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06550141-2026-10-06",
+    "title": "Emapalumab Prevention of CAR-T Cell Associated Toxicities",
+    "date": "2026-10-06",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06550141",
+    "summary": "NCT06550141 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT06297226-2026-10-06",
+    "title": "Study of Arlocabtagene Autoleucel (BMS-986393) a GPRC5D-directed CAR T Cell Therapy in Adult Participants With Relapsed or Refractory Multiple Myeloma",
+    "date": "2026-10-06",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT06297226",
+    "summary": "NCT06297226 · PHASE2 · RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT05993949-2026-10-06",
+    "title": "Study of Brexucabtagene Autoleucel Plus Dasatinib in Adults With Acute Lymphoblastic Leukemia",
+    "date": "2026-10-06",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT05993949",
+    "summary": "NCT05993949 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "trial-NCT01430390-2026-10-06",
+    "title": "In Vitro Expanded Allogeneic Epstein-Barr Virus Specific Cytotoxic T-Lymphocytes (EBV-CTLs) Genetically Targeted to the CD19 Antigen in B-cell Malignancies",
+    "date": "2026-10-06",
+    "type": "試驗更新",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/study/NCT01430390",
+    "summary": "NCT01430390 · PHASE1 · ACTIVE_NOT_RECRUITING；登錄更新不代表新療效結果。",
+    "review": "自動匯入・未審閱"
+  },
+  {
     "id": "fda-mzl",
     "title": "Breyanzi 在美國新增邊緣區淋巴瘤適應症",
     "date": "2025-12-04",
