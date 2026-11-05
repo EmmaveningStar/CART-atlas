@@ -1,0 +1,33 @@
+[
+  {
+    "id": "NCT06581198",
+    "title": "AUTOGRAPH–SLE/LN",
+    "interventions": [
+      "rapcabtagene autoleucel（YTB323）"
+    ],
+    "conditions": [
+      "SLE",
+      "狼瘡腎炎"
+    ],
+    "phase": "PHASE2",
+    "status": "RECRUITING",
+    "updated": "2026-02-20",
+    "source": "https://clinicaltrials.gov/study/NCT06581198",
+    "note": "研究中；登錄狀態是來源快照，不代表即時開放收案。"
+  },
+  {
+    "id": "NCT06193889",
+    "title": "KYSA-6：全身型重症肌無力",
+    "interventions": [
+      "KYV-101 / mivocabtagene autoleucel"
+    ],
+    "conditions": [
+      "全身型重症肌無力"
+    ],
+    "phase": "PHASE2 / PHASE3",
+    "status": "RECRUITING",
+    "updated": "2026-07-29",
+    "source": "https://clinicaltrials.gov/study/NCT06193889",
+    "note": "自體 CD19 CAR-T；來源快照，是否收案請查登錄及研究中心。"
+  }
+]

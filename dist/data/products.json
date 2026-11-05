@@ -1,0 +1,307 @@
+[
+  {
+    "name": "Kymriah",
+    "inn": "tisagenlecleucel",
+    "maker": "Novartis",
+    "target": "CD19",
+    "status": "已上市",
+    "cell": "自體",
+    "indication": "B-ALL（≤25歲）；成人 LBCL、FL",
+    "detail": "B-ALL：難治或第二次以上復發；LBCL / FL：至少兩線治療後。FL 為加速核准。",
+    "regions": {
+      "US": {
+        "status": "已核准",
+        "source": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/kymriah"
+      },
+      "EU": {
+        "status": "已核准",
+        "source": "https://www.ema.europa.eu/en/medicines/human/EPAR/kymriah"
+      },
+      "JP": {
+        "status": "已核准",
+        "source": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/0004.html"
+      },
+      "TW": {
+        "status": "已核准",
+        "source": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?cid=49315&id=f638883733633500962&type=2"
+      },
+      "CN": {
+        "status": "待查證",
+        "source": "https://www.nmpa.gov.cn/"
+      },
+      "UK": {
+        "status": "待查證",
+        "source": "https://products.mhra.gov.uk/"
+      }
+    },
+    "verifiedAt": "2026-11-05",
+    "source": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/kymriah"
+  },
+  {
+    "name": "Yescarta",
+    "inn": "axicabtagene ciloleucel",
+    "maker": "Kite / Gilead",
+    "target": "CD19",
+    "status": "已上市",
+    "cell": "自體",
+    "indication": "成人 LBCL、FL",
+    "detail": "LBCL：第一線難治或12個月內復發，或至少兩線後；FL：至少兩線後，加速核准。",
+    "regions": {
+      "US": {
+        "status": "已核准",
+        "source": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/yescarta"
+      },
+      "EU": {
+        "status": "已核准",
+        "source": "https://www.ema.europa.eu/en/medicines/human/EPAR/yescarta"
+      },
+      "JP": {
+        "status": "已核准",
+        "source": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/0004.html"
+      },
+      "TW": {
+        "status": "待查證",
+        "source": "https://info.fda.gov.tw/MLMS/H0001.aspx"
+      },
+      "CN": {
+        "status": "待查證",
+        "source": "https://www.nmpa.gov.cn/"
+      },
+      "UK": {
+        "status": "待查證",
+        "source": "https://products.mhra.gov.uk/"
+      }
+    },
+    "verifiedAt": "2026-11-05",
+    "source": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/yescarta"
+  },
+  {
+    "name": "Tecartus",
+    "inn": "brexucabtagene autoleucel",
+    "maker": "Kite / Gilead",
+    "target": "CD19",
+    "status": "已上市",
+    "cell": "自體",
+    "indication": "成人 MCL、B-ALL",
+    "detail": "成人復發或難治型 MCL；成人復發或難治型 B細胞前驅 ALL。",
+    "regions": {
+      "US": {
+        "status": "已核准",
+        "source": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/tecartus"
+      },
+      "EU": {
+        "status": "附條件核准",
+        "source": "https://www.ema.europa.eu/en/medicines/human/EPAR/tecartus"
+      },
+      "JP": {
+        "status": "待查證",
+        "source": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/0004.html"
+      },
+      "TW": {
+        "status": "待查證",
+        "source": "https://info.fda.gov.tw/MLMS/H0001.aspx"
+      },
+      "CN": {
+        "status": "待查證",
+        "source": "https://www.nmpa.gov.cn/"
+      },
+      "UK": {
+        "status": "待查證",
+        "source": "https://products.mhra.gov.uk/"
+      }
+    },
+    "verifiedAt": "2026-11-05",
+    "source": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/tecartus"
+  },
+  {
+    "name": "Breyanzi",
+    "inn": "lisocabtagene maraleucel",
+    "maker": "Bristol Myers Squibb",
+    "target": "CD19",
+    "status": "已上市",
+    "cell": "自體",
+    "indication": "成人 LBCL、CLL/SLL、FL、MCL、MZL",
+    "detail": "依病種與治療線別而異；CLL/SLL 至少兩線且含 BTKi、BCL-2i（加速核准）；MCL 至少兩線且含 BTKi；MZL 至少兩線後。詳見 FDA 仿單。",
+    "regions": {
+      "US": {
+        "status": "已核准",
+        "source": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/breyanzi"
+      },
+      "EU": {
+        "status": "已核准",
+        "source": "https://www.ema.europa.eu/en/medicines/human/EPAR/breyanzi"
+      },
+      "JP": {
+        "status": "已核准",
+        "source": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/0004.html"
+      },
+      "TW": {
+        "status": "待查證",
+        "source": "https://info.fda.gov.tw/MLMS/H0001.aspx"
+      },
+      "CN": {
+        "status": "待查證",
+        "source": "https://www.nmpa.gov.cn/"
+      },
+      "UK": {
+        "status": "待查證",
+        "source": "https://products.mhra.gov.uk/"
+      }
+    },
+    "verifiedAt": "2026-11-05",
+    "source": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/breyanzi"
+  },
+  {
+    "name": "Abecma",
+    "inn": "idecabtagene vicleucel",
+    "maker": "Bristol Myers Squibb",
+    "target": "BCMA",
+    "status": "已上市",
+    "cell": "自體",
+    "indication": "成人多發性骨髓瘤",
+    "detail": "復發或難治；至少兩線，包含免疫調節劑、蛋白酶體抑制劑與抗 CD38 抗體。",
+    "regions": {
+      "US": {
+        "status": "已核准",
+        "source": "https://www.fda.gov/vaccines-blood-biologics/abecma"
+      },
+      "EU": {
+        "status": "已核准",
+        "source": "https://www.ema.europa.eu/en/medicines/human/EPAR/abecma"
+      },
+      "JP": {
+        "status": "已核准",
+        "source": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/0004.html"
+      },
+      "TW": {
+        "status": "待查證",
+        "source": "https://info.fda.gov.tw/MLMS/H0001.aspx"
+      },
+      "CN": {
+        "status": "待查證",
+        "source": "https://www.nmpa.gov.cn/"
+      },
+      "UK": {
+        "status": "待查證",
+        "source": "https://products.mhra.gov.uk/"
+      }
+    },
+    "verifiedAt": "2026-11-05",
+    "source": "https://www.fda.gov/vaccines-blood-biologics/abecma"
+  },
+  {
+    "name": "Carvykti",
+    "inn": "ciltacabtagene autoleucel",
+    "maker": "Janssen / Legend",
+    "target": "BCMA",
+    "status": "已上市",
+    "cell": "自體",
+    "indication": "成人多發性骨髓瘤",
+    "detail": "復發或難治；至少一線，包含蛋白酶體抑制劑與免疫調節劑，且對 lenalidomide 難治。",
+    "regions": {
+      "US": {
+        "status": "已核准",
+        "source": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/carvykti"
+      },
+      "EU": {
+        "status": "已核准",
+        "source": "https://www.ema.europa.eu/en/medicines/human/EPAR/carvykti"
+      },
+      "JP": {
+        "status": "已核准",
+        "source": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/0004.html"
+      },
+      "TW": {
+        "status": "待查證",
+        "source": "https://info.fda.gov.tw/MLMS/H0001.aspx"
+      },
+      "CN": {
+        "status": "待查證",
+        "source": "https://www.nmpa.gov.cn/"
+      },
+      "UK": {
+        "status": "待查證",
+        "source": "https://products.mhra.gov.uk/"
+      }
+    },
+    "verifiedAt": "2026-11-05",
+    "source": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/carvykti"
+  },
+  {
+    "name": "Aucatzyl",
+    "inn": "obecabtagene autoleucel",
+    "maker": "Autolus",
+    "target": "CD19",
+    "status": "已上市",
+    "cell": "自體",
+    "indication": "成人 B-ALL",
+    "detail": "成人復發或難治型 B細胞前驅 ALL；歐盟為26歲以上，且為附條件核准。",
+    "regions": {
+      "US": {
+        "status": "已核准",
+        "source": "https://www.fda.gov/vaccines-blood-biologics/aucatzyl"
+      },
+      "EU": {
+        "status": "附條件核准",
+        "source": "https://www.ema.europa.eu/en/medicines/human/EPAR/aucatzyl"
+      },
+      "JP": {
+        "status": "待查證",
+        "source": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/0004.html"
+      },
+      "TW": {
+        "status": "待查證",
+        "source": "https://info.fda.gov.tw/MLMS/H0001.aspx"
+      },
+      "CN": {
+        "status": "待查證",
+        "source": "https://www.nmpa.gov.cn/"
+      },
+      "UK": {
+        "status": "附條件核准",
+        "source": "https://www.gov.uk/government/news/obecabtagene-autoleucel-conditionally-approved-to-treat-adults-with-relapsed-or-refractory-b-cell-precursor-acute-lymphoblastic-leukaemia"
+      }
+    },
+    "verifiedAt": "2026-11-05",
+    "source": "https://www.fda.gov/vaccines-blood-biologics/aucatzyl"
+  },
+  {
+    "name": "源瑞達",
+    "inn": "納基奧侖賽",
+    "maker": "合源生物",
+    "target": "CD19",
+    "cell": "自體",
+    "status": "已上市",
+    "primaryRegion": "CN",
+    "indication": "中國：成人復發或難治型 B-ALL",
+    "detail": "中國 NMPA 於2023年11月公告附條件核准，用於成人復發或難治型 B細胞急性淋巴性白血病。本文保留公告時條件；最新仿單與條件轉換仍需核對。",
+    "regions": {
+      "US": {
+        "status": "待查證",
+        "source": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products"
+      },
+      "EU": {
+        "status": "待查證",
+        "source": "https://www.ema.europa.eu/en/medicines"
+      },
+      "JP": {
+        "status": "待查證",
+        "source": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/0004.html"
+      },
+      "TW": {
+        "status": "待查證",
+        "source": "https://info.fda.gov.tw/MLMS/H0001.aspx"
+      },
+      "CN": {
+        "status": "附條件核准",
+        "source": "https://www.nmpa.gov.cn/zhuanti/cxylqx/cxypxx/20231108092415187.html"
+      },
+      "UK": {
+        "status": "待查證",
+        "source": "https://products.mhra.gov.uk/"
+      }
+    },
+    "source": "https://www.nmpa.gov.cn/zhuanti/cxylqx/cxypxx/20231108092415187.html",
+    "verifiedAt": "2026-11-05"
+  }
+]

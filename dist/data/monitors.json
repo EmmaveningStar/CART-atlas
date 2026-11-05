@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Kymriah / US",
+    "agency": "FDA",
+    "url": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/kymriah"
+  },
+  {
+    "name": "Kymriah / EU",
+    "agency": "EMA",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kymriah"
+  },
+  {
+    "name": "Yescarta / US",
+    "agency": "FDA",
+    "url": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/yescarta"
+  },
+  {
+    "name": "Yescarta / EU",
+    "agency": "EMA",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/yescarta"
+  },
+  {
+    "name": "Tecartus / US",
+    "agency": "FDA",
+    "url": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/tecartus"
+  },
+  {
+    "name": "Tecartus / EU",
+    "agency": "EMA",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tecartus"
+  },
+  {
+    "name": "Breyanzi / US",
+    "agency": "FDA",
+    "url": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/breyanzi"
+  },
+  {
+    "name": "Breyanzi / EU",
+    "agency": "EMA",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/breyanzi"
+  },
+  {
+    "name": "Abecma / US",
+    "agency": "FDA",
+    "url": "https://www.fda.gov/vaccines-blood-biologics/abecma"
+  },
+  {
+    "name": "Abecma / EU",
+    "agency": "EMA",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/abecma"
+  },
+  {
+    "name": "Carvykti / US",
+    "agency": "FDA",
+    "url": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/carvykti"
+  },
+  {
+    "name": "Carvykti / EU",
+    "agency": "EMA",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/carvykti"
+  },
+  {
+    "name": "Aucatzyl / US",
+    "agency": "FDA",
+    "url": "https://www.fda.gov/vaccines-blood-biologics/aucatzyl"
+  },
+  {
+    "name": "Aucatzyl / EU",
+    "agency": "EMA",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/aucatzyl"
+  },
+  {
+    "name": "Aucatzyl / UK",
+    "agency": "MHRA",
+    "url": "https://www.gov.uk/government/news/obecabtagene-autoleucel-conditionally-approved-to-treat-adults-with-relapsed-or-refractory-b-cell-precursor-acute-lymphoblastic-leukaemia"
+  },
+  {
+    "name": "源瑞達 / CN",
+    "agency": "NMPA",
+    "url": "https://www.nmpa.gov.cn/zhuanti/cxylqx/cxypxx/20231108092415187.html"
+  },
+  {
+    "name": "FDA 細胞與基因治療核准清單",
+    "agency": "FDA",
+    "url": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products"
+  }
+]

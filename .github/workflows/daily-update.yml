@@ -1,0 +1,49 @@
+name: Daily CAR-T intelligence
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/daily-update.yml'
+  schedule:
+    - cron: '20 0 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: cart-data-update
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate code and initial data
+        run: |
+          python scripts/validate.py
+          python scripts/test_update.py
+          node --check dist/app.js
+      - name: Import public data
+        id: imports
+        continue-on-error: true
+        run: python scripts/update_data.py
+      - name: Validate updated data
+        run: python scripts/validate.py
+      - name: Save updates and failure status
+        run: |
+          git config user.name 'CAR-T Atlas Bot'
+          git config user.email 'cart-atlas-bot@users.noreply.github.com'
+          git add dist/data
+          if ! git diff --staged --quiet; then
+            git commit -m 'data: daily research imports and regulator monitoring'
+            git push
+          fi
+      - name: Report partial failures
+        if: steps.imports.outcome == 'failure'
+        run: |
+          echo 'Some sources failed. Previous data was preserved; inspect dist/data/health.json.'
+          exit 1
