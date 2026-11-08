@@ -110,6 +110,26 @@
     "review": "自動匯入・未審閱"
   },
   {
+    "id": "pmid-42994743",
+    "title": "From Bench to Bedside Faster: How CAR-NK is Transforming Cancer Research.",
+    "date": "2026-11-06",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42994743/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42994247",
+    "title": "Cytokine release syndrome across three immunotherapy platforms: A real-world patient-level comparison of CAR T-cell, T-cell engager, and immune checkpoint inhibitor therapies.",
+    "date": "2026-11-06",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42994247/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
     "id": "pmid-42986912",
     "title": "CD20-directed Autologous CAR T-cell Therapy for Waldenström Macroglobulinemia.",
     "date": "2026-11-05",
@@ -1256,6 +1276,56 @@
     "type": "研究文獻",
     "source": "PubMed",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42850287/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42854615",
+    "title": "Pre-clinical validation of OSCAR-3 mRNA-based CAR T cells for targeting osteosarcomas.",
+    "date": "2026-10-09",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854615/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42854614",
+    "title": "Early detection of chimeric antigen receptor-T-associated neurotoxicity via cytokine monitoring in serum.",
+    "date": "2026-10-09",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854614/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42854612",
+    "title": "Integrated T-cell enrichment, static transduction, and expansion in gas-permeable bioreactors for adoptive cell therapy.",
+    "date": "2026-10-09",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854612/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42854611",
+    "title": "Hypoxia during GPC2-CAR T-cell manufacturing compromises cell expansion and cytotoxic capacity.",
+    "date": "2026-10-09",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854611/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42854609",
+    "title": "Phenotype-outcome standards must guide personalized CAR-T manufacturing.",
+    "date": "2026-10-09",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854609/",
     "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
     "review": "自動匯入・未審閱"
   },
