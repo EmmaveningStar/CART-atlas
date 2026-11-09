@@ -1,5 +1,95 @@
 [
   {
+    "id": "pmid-42997611",
+    "title": "PD-L1 transmembrane domain substitution overcomes CAR-T exhaustion driven by tonic signaling.",
+    "date": "2026-11-08",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42997611/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42997744",
+    "title": "A dual-switch safety system enables safety controllability and high-efficiency enrichment for T cell immunotherapy.",
+    "date": "2026-11-08",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42997744/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42999004",
+    "title": "Influence of CAR T-cell expansion and persistence in the peripheral blood on CAR T-cell therapy efficacy and adverse events in multiple myeloma.",
+    "date": "2026-11-08",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42999004/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42998770",
+    "title": "Nanoengineering strategies for precision regulation of chimeric antigen receptor T-cell-induced cytokine release syndrome.",
+    "date": "2026-11-08",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42998770/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42995292",
+    "title": "NAD+ as a metabolic immune checkpoint in cancer.",
+    "date": "2026-11-08",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42995292/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42995495",
+    "title": "Are entirely virus-free CAR T cells as good as lentiviral transduced universal cells?",
+    "date": "2026-11-08",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42995495/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42995488",
+    "title": "CD3scFv-Engineered AAV Capsid Drives Superior In Vitro and In Vivo CAR-T Cell Generation and Leads to Complete Eradication of CD19+ Tumors.",
+    "date": "2026-11-08",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42995488/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42995248",
+    "title": "CAR T cells show early promise in progressive multiple sclerosis.",
+    "date": "2026-11-08",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42995248/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42998572",
+    "title": "Building the data infrastructure needed for artificial intelligence in apheresis to CAR-T therapy.",
+    "date": "2026-11-08",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42998572/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
     "id": "pmid-42992139",
     "title": "Emerging cell therapies for gastrointestinal cancers: Advances and future perspectives.",
     "date": "2026-11-06",
@@ -241,7 +331,7 @@
   },
   {
     "id": "pmid-42987985",
-    "title": "AI-Enhanced CRISPR-Cas9 Therapeutics: Advances in Precision, Safety, and Delivery.",
+    "title": "AI-enhanced CRISPR-Cas9 therapeutics: Advances in precision, safety, and delivery.",
     "date": "2026-11-05",
     "type": "研究文獻",
     "source": "PubMed",
