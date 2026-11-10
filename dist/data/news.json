@@ -1,5 +1,75 @@
 [
   {
+    "id": "pmid-43001484",
+    "title": "Immunotherapy for gliomas: from checkpoint blockade to vaccines, cellular therapy, local immune engineering and combinations.",
+    "date": "2026-11-09",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43001484/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43002581",
+    "title": "Terminal differentiation program of CD8 T cells guides immunotherapeutic options for CLL patients.",
+    "date": "2026-11-09",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43002581/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43002428",
+    "title": "Arrival of CAR T-Cell Therapies for Stiff Person Syndrome.",
+    "date": "2026-11-09",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43002428/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43002394",
+    "title": "Mivocabtagene Autoleucel CD19 Chimeric Antigen Receptor T-Cell Therapy in Stiff Person Syndrome: A Nonrandomized Clinical Trial.",
+    "date": "2026-11-09",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43002394/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43002332",
+    "title": "Real-world outcomes of CHASE therapy as salvage or bridging treatment for relapsed or refractory non-Hodgkin lymphoma.",
+    "date": "2026-11-09",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43002332/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43001588",
+    "title": "T cell-mediated antibody-dependent cellular cytotoxicity provides a therapeutic approach for solid cancers.",
+    "date": "2026-11-09",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43001588/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43000769",
+    "title": "Therapeutic Landscape of Folate Receptor-α Targeting: Platforms, Progress, and Clinical Translation.",
+    "date": "2026-11-09",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000769/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
     "id": "pmid-42997611",
     "title": "PD-L1 transmembrane domain substitution overcomes CAR-T exhaustion driven by tonic signaling.",
     "date": "2026-11-08",
@@ -86,6 +156,26 @@
     "type": "研究文獻",
     "source": "PubMed",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42998572/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43000203",
+    "title": "Individualizing Apheresis Processing Volumes Using a Predictive Algorithm: Analysis of the CAR T-Cell Collection Protocol Utilized in ACIT001/EXC002, a Phase Ib/II Trial of Decentralized Production of CAR T Cells for Treatment of Relapsed/Refractory Aggressive NHL and ALL.",
+    "date": "2026-11-08",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000203/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43000021",
+    "title": "Impact of chronic obstructive pulmonary disease on survival after chimeric antigen receptor T-cell therapy in large B-cell lymphoma.",
+    "date": "2026-11-08",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000021/",
     "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
     "review": "自動匯入・未審閱"
   },

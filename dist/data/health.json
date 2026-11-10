@@ -1,5 +1,5 @@
 {
-  "lastAttempt": "2026-11-09T01:21:13.270998+00:00",
+  "lastAttempt": "2026-11-10T01:13:44.611635+00:00",
   "lastSuccess": null,
   "mode": "GitHub Actions 每日更新",
   "sources": {
@@ -9,32 +9,52 @@
     "PubMed": {
       "status": "成功",
       "count": 100,
-      "checkedAt": "2026-11-09T01:21:13.270998+00:00"
+      "checkedAt": "2026-11-10T01:13:44.611635+00:00"
     },
     "主管機關監測": {
-      "status": "9 頁失敗・保留舊雜湊",
+      "status": "15 頁失敗・保留舊雜湊",
       "count": 17,
-      "checkedAt": "2026-11-09T01:21:13.270998+00:00",
+      "checkedAt": "2026-11-10T01:13:44.611635+00:00",
       "errors": [
         {
           "name": "Kymriah / US",
           "error": "HTTP Error 404: Not Found"
         },
         {
+          "name": "Kymriah / EU",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
           "name": "Yescarta / US",
           "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "name": "Yescarta / EU",
+          "error": "HTTP Error 429: Too Many Requests"
         },
         {
           "name": "Tecartus / US",
           "error": "HTTP Error 404: Not Found"
         },
         {
+          "name": "Tecartus / EU",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
           "name": "Breyanzi / US",
           "error": "HTTP Error 404: Not Found"
         },
         {
+          "name": "Breyanzi / EU",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
           "name": "Abecma / US",
           "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "name": "Abecma / EU",
+          "error": "HTTP Error 429: Too Many Requests"
         },
         {
           "name": "Carvykti / US",
@@ -43,6 +63,10 @@
         {
           "name": "Aucatzyl / US",
           "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "name": "Aucatzyl / EU",
+          "error": "HTTP Error 429: Too Many Requests"
         },
         {
           "name": "源瑞達 / CN",
