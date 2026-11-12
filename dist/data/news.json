@@ -1,5 +1,35 @@
 [
   {
+    "id": "pmid-43011237",
+    "title": "CRISPR Technology: From Bench to Bedside Applications.",
+    "date": "2026-11-11",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43011237/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43011477",
+    "title": "Nanocarrier-Mediated Immunotherapy for Gynecological Malignancies: Mechanisms, Clinical Translation, and Emerging Nucleic Acid-Based Strategies.",
+    "date": "2026-11-11",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43011477/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43012288",
+    "title": "STRIVE: An Integrated In Silico Framework for Structure-Guided De Novo Design and Off-Target Risk Prioritization of CLDN4-Targeting scFv Candidates.",
+    "date": "2026-11-11",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43012288/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
     "id": "pmid-43007726",
     "title": "HIV-resistant CD19/HIV-targeted dual CAR T cells control HIV replication and B cell lymphoma concurrently in humanized mice.",
     "date": "2026-11-10",
@@ -76,6 +106,56 @@
     "type": "研究文獻",
     "source": "PubMed",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43003884/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43009097",
+    "title": "CRISPR, mRNA, and Beyond: Nucleic Acid Therapeutics in Allergy and Immunology.",
+    "date": "2026-11-10",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43009097/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43009022",
+    "title": "Sepsis in Chimeric Antigen Receptor T-Cell Therapy: A Six-Year Nationwide Analysis of Clinical Outcomes and Healthcare Resource Utilization in Hospitalizations for Hematologic Malignancies.",
+    "date": "2026-11-10",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43009022/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43009020",
+    "title": "Early T-cell Large Granular Lymphocyte Expansions in Patients with Cytopenias after CD19 CAR T-cell Therapy.",
+    "date": "2026-11-10",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43009020/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43008576",
+    "title": "Fourth-generation multi-costimulatory chimeric antigen receptor T cells targeting CD133 and integrin αvβ6 exert potent antitumor activity in cholangiocarcinoma.",
+    "date": "2026-11-10",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43008576/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43008277",
+    "title": "Treatment standard - the highly sensitized kidney transplant candidate.",
+    "date": "2026-11-10",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43008277/",
     "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
     "review": "自動匯入・未審閱"
   },
@@ -391,7 +471,7 @@
   },
   {
     "id": "pmid-42994743",
-    "title": "From Bench to Bedside Faster: How CAR-NK is Transforming Cancer Research.",
+    "title": "From bench to bedside faster: How CAR-NK is transforming cancer research.",
     "date": "2026-11-06",
     "type": "研究文獻",
     "source": "PubMed",
@@ -1390,6 +1470,16 @@
     "review": "自動匯入・未審閱"
   },
   {
+    "id": "pmid-42900516",
+    "title": "Localized hydrogel depots for CAR-T cell therapy in solid tumors: materials design, cellular fitness and translational deployment.",
+    "date": "2026-10-20",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42900516/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
     "id": "pmid-42894313",
     "title": "Glioblastoma immune landscape remodeling following treatment with CD70-targeted CAR-T cells.",
     "date": "2026-10-19",
@@ -1496,6 +1586,16 @@
     "type": "研究文獻",
     "source": "PubMed",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42869985/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42873420",
+    "title": "Identification and Characterization of Patient Populations at High Risk for Clostridioides difficile Infection (CDI): A Narrative Review.",
+    "date": "2026-10-14",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42873420/",
     "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
     "review": "自動匯入・未審閱"
   },
