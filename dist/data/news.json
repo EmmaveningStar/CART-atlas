@@ -1,5 +1,65 @@
 [
   {
+    "id": "pmid-43022219",
+    "title": "Nemo-like kinase limits T cell activation while preserving anti-tumor responses.",
+    "date": "2026-11-13",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43022219/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43024723",
+    "title": "Engineering exhaustion-resistance CD19 CAR T cells to address translational barriers for the treatment of cancer and autoimmune disease.",
+    "date": "2026-11-13",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43024723/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43024040",
+    "title": "Development of new CAR-T cell therapies for hematological cancers.",
+    "date": "2026-11-13",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43024040/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43023553",
+    "title": "CAR-T Targeting of Mutant Calreticulin Selectively Eradicates Myeloproliferative Neoplasm-Sustaining Stem Cells.",
+    "date": "2026-11-13",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43023553/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43021386",
+    "title": "CAR immunotherapy for cancer: from ex vivo manufacturing to in vivo immune cell engineering.",
+    "date": "2026-11-13",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43021386/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43022662",
+    "title": "Nanomedicine-Enhanced CAR-Engineered Immunotherapy for Lung Cancer: Focusing on Multimodal Strategies and Precision Therapy.",
+    "date": "2026-11-13",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43022662/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
     "id": "pmid-43017126",
     "title": "Overcoming translational and manufacturing barriers of CAR-T cell therapy in the Brazilian landscape.",
     "date": "2026-11-12",
@@ -96,6 +156,36 @@
     "type": "研究文獻",
     "source": "PubMed",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43015497/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43020332",
+    "title": "Ligand/receptor-based chimeric antigen receptors: a promising alternative to conventional scFv designs in cancer immunotherapy.",
+    "date": "2026-11-12",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43020332/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43020328",
+    "title": "Allogeneic CD33/CD123 CAR-T сells in pediatric relapsed/refractory AML: early single-center experience.",
+    "date": "2026-11-12",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43020328/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43020124",
+    "title": "Acute Neurotoxicity Syndromes from Immunotherapy: Emergency and ICU Management.",
+    "date": "2026-11-12",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43020124/",
     "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
     "review": "自動匯入・未審閱"
   },
