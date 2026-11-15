@@ -6,5 +6,13 @@
   "https://www.ema.europa.eu/en/medicines/human/EPAR/abecma": "6033f6fc40ecea32093ddc94579dfac85be0dfc19579e7bec2d3ff76cac222f0",
   "https://www.ema.europa.eu/en/medicines/human/EPAR/carvykti": "5b8ae1f930e2d4de4222154b57587f936c6b817a7e54c094b06144397304672e",
   "https://www.ema.europa.eu/en/medicines/human/EPAR/aucatzyl": "ad572e09d25989fa8462d45242a43cecdc71d2e7038f752b3b01feef847e5851",
-  "https://www.gov.uk/government/news/obecabtagene-autoleucel-conditionally-approved-to-treat-adults-with-relapsed-or-refractory-b-cell-precursor-acute-lymphoblastic-leukaemia": "fae66cd9222a18efccb6b6e325977f1e46dc4b0fa53be8f1910c817e7576b146"
+  "https://www.gov.uk/government/news/obecabtagene-autoleucel-conditionally-approved-to-treat-adults-with-relapsed-or-refractory-b-cell-precursor-acute-lymphoblastic-leukaemia": "fae66cd9222a18efccb6b6e325977f1e46dc4b0fa53be8f1910c817e7576b146",
+  "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/kymriah": "42b4a5ce3d074f127f3a6a8783c44fa873601d8e5cd7e0d2f71c65dfda796c1a",
+  "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/yescarta": "734a88e508dc19c4fbf7810580a86369c83ed3719c774a844d6ace84b74bc1ef",
+  "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/tecartus": "52fa2445e1d5b92525fc9a648b46bd1254d1a5da9340b6fa6f726d0cd3c2b9d0",
+  "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/breyanzi": "338bc1fd74154866b788591055965a09988ab408b9b4f7daf0b4af1479afa04d",
+  "https://www.fda.gov/vaccines-blood-biologics/abecma": "05c828ac0abdee2908243716962073e497dc51db5089870111181786789f124c",
+  "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/carvykti": "10923f82c25927e444a6fc3a72d47b0abb416bde4f0f177c0f70fbeda88caab1",
+  "https://www.fda.gov/vaccines-blood-biologics/aucatzyl": "9f544961cd9f2f110b7b29a565f08a2969ea1c49c2ecd69e7a3af73873f6cca8",
+  "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products": "1f7bc8420262cf1dfcfd798fc3f3fd3cd21cfa2b13977d182913a3d217123d33"
 }
