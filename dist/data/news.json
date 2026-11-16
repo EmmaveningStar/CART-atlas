@@ -1,5 +1,95 @@
 [
   {
+    "id": "pmid-43034827",
+    "title": "First-in-human anti-Trop2 CAR-T cell therapy in refractory INI-1/BRM-deficient sinonasal carcinoma: A case report.",
+    "date": "2026-11-15",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034827/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43034636",
+    "title": "Long-read genome sequencing reveals complex variability in lentiviral provirus insertions in clonal CD19 CAR-T VCN reference cell lines.",
+    "date": "2026-11-15",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034636/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43032297",
+    "title": "LVV SMRTcap reveals extensive proviral variation in lentiviral vector-transduced CAR T cells.",
+    "date": "2026-11-15",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032297/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43034267",
+    "title": "Advanced drug delivery strategies for overcoming tumor-mediated molecular hijacking: Emerging nanotherapeutics, advanced biotherapeutics, and artificial intelligence.",
+    "date": "2026-11-15",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034267/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43033914",
+    "title": "Real-world access and barriers to CAR T-cell therapy in relapsed/refractory diffuse large B-cell lymphoma: a population-based study.",
+    "date": "2026-11-15",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033914/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43033601",
+    "title": "Pre-apheresis T-cell fitness in chimeric antigen receptor T-cell therapy.",
+    "date": "2026-11-15",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033601/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43033211",
+    "title": "Approach to Patients with Multiple Myeloma after BCMA targeted Therapy.",
+    "date": "2026-11-15",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033211/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43034611",
+    "title": "Syndrome-oriented CNS infectious complications after hematopoietic stem-cell transplantation and CAR T-cell therapy, part 1-viral encephalitis, meningitis, and myelitis: recommendations from the Practice Harmonization & Guidelines Committee of the EBMT.",
+    "date": "2026-11-15",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034611/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43032334",
+    "title": "Syndrome-oriented CNS infectious complications after haematopoietic stem-cell transplantation and CAR T-cell therapy, part 2-focal brain infections and meningitis of bacterial, fungal, and parasitic origin: recommendations from the EBMT Practice and Harmonization Committee.",
+    "date": "2026-11-15",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032334/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
     "id": "pmid-43031377",
     "title": "Caregiver support in patients with plasma cell dyscrasias: A novel single-item pilot measure of caregiver availability: Results from a survey of >1000 patients.",
     "date": "2026-11-14",
