@@ -1,5 +1,65 @@
 [
   {
+    "id": "pmid-43041994",
+    "title": "CD26 cytoplasmic tail serves as a potential costimulatory domain in CAR-T cells.",
+    "date": "2026-11-17",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041994/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43041962",
+    "title": "Continuous in situ production of CAR T cells from in vivo-transduced HSCs is safe and delays growth of mouse HER2high tumors.",
+    "date": "2026-11-17",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041962/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43041705",
+    "title": "From lifelong immunosuppression to long-term drug-free remission: are finite therapies emerging in autoimmune diseases?",
+    "date": "2026-11-17",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041705/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43043871",
+    "title": "Cytokines to modulate CAR T cells.",
+    "date": "2026-11-17",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43043871/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43040071",
+    "title": "A CD7-targeted AAV variant enables efficient T and NK cell engineering in vivo.",
+    "date": "2026-11-17",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43040071/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43042414",
+    "title": "Immune-Mediated Necrotizing Myopathy Across the Age, Autoantibody, Phenotype, Treatment, and Outcome Spectrum: A Systematic Review.",
+    "date": "2026-11-17",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43042414/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
     "id": "pmid-43036814",
     "title": "An asymmetric split-costimulatory MSLN.BBz/NKG2D.28 dual CAR-T design enhances activity against antigenically heterogeneous pancreatic cancer.",
     "date": "2026-11-16",
@@ -96,6 +156,36 @@
     "type": "研究文獻",
     "source": "PubMed",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43035080/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43039402",
+    "title": "Developing an optimal fully human CD371-targeting, IL-18-secreting CAR T-cell for the treatment of acute myeloid leukemia.",
+    "date": "2026-11-16",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43039402/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43039044",
+    "title": "Genetically encoded chemically controlled proximity switches: Molecular design, pharmacology, and therapeutic considerations.",
+    "date": "2026-11-16",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43039044/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43038762",
+    "title": "Gamma-delta T cells in neuroblastoma: Exploiting MHC-independent recognition to overcome the barriers of high-risk disease.",
+    "date": "2026-11-16",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43038762/",
     "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
     "review": "自動匯入・未審閱"
   },

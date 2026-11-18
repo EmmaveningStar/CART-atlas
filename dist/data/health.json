@@ -1,5 +1,5 @@
 {
-  "lastAttempt": "2026-11-17T01:24:50.755680+00:00",
+  "lastAttempt": "2026-11-18T01:28:57.795394+00:00",
   "lastSuccess": null,
   "mode": "GitHub Actions 每日更新",
   "sources": {
@@ -9,12 +9,12 @@
     "PubMed": {
       "status": "成功",
       "count": 100,
-      "checkedAt": "2026-11-17T01:24:50.755680+00:00"
+      "checkedAt": "2026-11-18T01:28:57.795394+00:00"
     },
     "主管機關監測": {
-      "status": "10 頁失敗・保留舊雜湊",
+      "status": "9 頁失敗・保留舊雜湊",
       "count": 17,
-      "checkedAt": "2026-11-17T01:24:50.755680+00:00",
+      "checkedAt": "2026-11-18T01:28:57.795394+00:00",
       "errors": [
         {
           "name": "Kymriah / US",
@@ -35,10 +35,6 @@
         {
           "name": "Abecma / US",
           "error": "HTTP Error 404: Not Found"
-        },
-        {
-          "name": "Abecma / EU",
-          "error": "HTTP Error 429: Too Many Requests"
         },
         {
           "name": "Carvykti / US",
