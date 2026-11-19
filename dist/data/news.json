@@ -1,5 +1,65 @@
 [
   {
+    "id": "pmid-43050313",
+    "title": "CD49f identifies stem-like memory T cells with enhanced therapeutic potency.",
+    "date": "2026-11-18",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43050313/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43050395",
+    "title": "Endothelial IDO1 Drives BBB Disruption in CAR-T-Associated Neurotoxicity Through KYNU-AA-Wnt/β-catenin Pathway.",
+    "date": "2026-11-18",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43050395/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43049054",
+    "title": "\"Time is of the essence\": physician challenges impact patient access to chimeric antigen receptor T-cell therapy.",
+    "date": "2026-11-18",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43049054/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43046784",
+    "title": "In Situ Programming of Armored CAR-Macrophages by Microneedle-Mediated Gene Delivery for Melanoma Immunotherapy.",
+    "date": "2026-11-18",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43046784/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43045822",
+    "title": "Inhibiting or harnessing fratricide in CAR-engineered cell therapy: challenges and opportunities.",
+    "date": "2026-11-18",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43045822/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43046644",
+    "title": "CAR T cells in skin cancer: From experimental promise to clinical translation.",
+    "date": "2026-11-18",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43046644/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
     "id": "pmid-43041994",
     "title": "CD26 cytoplasmic tail serves as a potential costimulatory domain in CAR-T cells.",
     "date": "2026-11-17",
@@ -56,6 +116,56 @@
     "type": "研究文獻",
     "source": "PubMed",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43042414/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43044881",
+    "title": "A longitudinal investigation of the financial impact of receiving chimeric antigen receptor t-cell therapy.",
+    "date": "2026-11-17",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43044881/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43044879",
+    "title": "B cell-targeting chimeric antigen receptor macrophages protect against autoimmune glomerulonephritis.",
+    "date": "2026-11-17",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43044879/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43044617",
+    "title": "Natural ligand-based CAR T-cell therapy targeting BCMA and TACI for relapsed or refractory multiple myeloma (TriPRIL): a non-randomised, phase 1, first-in-human trial.",
+    "date": "2026-11-17",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43044617/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43044616",
+    "title": "APRIL-based CAR T-cell targeting of BCMA and TACI in multiple myeloma.",
+    "date": "2026-11-17",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43044616/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43044382",
+    "title": "Apheresis activities of the transplantation and cellular therapies society in Türkiye: Current practice, scientific contributions, and a roadmap for the cellular-therapy era.",
+    "date": "2026-11-17",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43044382/",
     "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
     "review": "自動匯入・未審閱"
   },
@@ -1976,6 +2086,16 @@
     "type": "研究文獻",
     "source": "PubMed",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42927201/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42920067",
+    "title": "Current and Emerging Therapies for Generalized Myasthenia Gravis: Toward Precision Medicine.",
+    "date": "2026-10-24",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42920067/",
     "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
     "review": "自動匯入・未審閱"
   },
