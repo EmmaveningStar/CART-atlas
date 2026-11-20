@@ -1,5 +1,65 @@
 [
   {
+    "id": "pmid-43056504",
+    "title": "NKTR-255, a polymer-conjugated IL-15, enhances CAR T cell therapy by engaging endogenous antitumor immunity.",
+    "date": "2026-11-19",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43056504/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43055855",
+    "title": "p53 in lymphoma: molecular mechanisms, prognostic significance and therapeutic targeting.",
+    "date": "2026-11-19",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055855/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43053712",
+    "title": "Steroid-refractory ICANS after CAR T-cell therapy: the case for prospective evidence. Comment on: \"Relapsing, steroid-refractory ICANS after CAR T-cell therapy: diagnostic work-up and response to delayed repeated intrathecal chemotherapy\".",
+    "date": "2026-11-19",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43053712/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43053709",
+    "title": "Outcomes associated with CD3xCD20 bispecific antibody therapies in relapsed/refractory transformed indolent lymphoma.",
+    "date": "2026-11-19",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43053709/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43053704",
+    "title": "Allogeneic hematopoietic stem cell transplantation after CD19-directed CAR T-cell therapy in children and adults with B-cell acute lymphoblastic leukemia: a GoCART coalition study on behalf of the PDWP, ALWP, and CTIWP of the EBMT.",
+    "date": "2026-11-19",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43053704/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43053183",
+    "title": "Dual-targeting BCMA/CD19 CAR T cells with asymmetric 4-1BB/CD28-YMFM costimulation in relapsed/refractory multiple myeloma: a phase 1/2 trial with single-cell profiling of extramedullary disease.",
+    "date": "2026-11-19",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43053183/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
     "id": "pmid-43050313",
     "title": "CD49f identifies stem-like memory T cells with enhanced therapeutic potency.",
     "date": "2026-11-18",
@@ -56,6 +116,76 @@
     "type": "研究文獻",
     "source": "PubMed",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43046644/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43051180",
+    "title": "CAR T-cell trials paused after three deaths.",
+    "date": "2026-11-18",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43051180/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43051941",
+    "title": "Chimeric 4/9ICR reprograms immunosuppressive IL-4 signals to enhance B7-H3-targeted CAR-T cell efficacy against triple-negative breast cancer.",
+    "date": "2026-11-18",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43051941/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43051164",
+    "title": "Cell-free RNA signatures derived from the tumor microenvironment predict outcomes of CAR T therapy in large B cell lymphoma.",
+    "date": "2026-11-18",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43051164/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43051155",
+    "title": "ID3 endowment and TGFBR2 deletion enhance iPSC-derived CAR macrophage immunotherapy for hepatocellular carcinoma.",
+    "date": "2026-11-18",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43051155/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43051145",
+    "title": "Beyond CD19: Pairing broader antigen recognition with strategies to counter CAR-T cell exhaustion.",
+    "date": "2026-11-18",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43051145/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43051112",
+    "title": "L-Asparaginase exposure and immune fitness in pediatric acute lymphoblastic leukemia: A critical evidence appraisal for immunotherapy integration.",
+    "date": "2026-11-18",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43051112/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43051094",
+    "title": "Enhancing TCR-T cell responses with a TGFβ-specific chimeric antigen receptor.",
+    "date": "2026-11-18",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43051094/",
     "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
     "review": "自動匯入・未審閱"
   },
