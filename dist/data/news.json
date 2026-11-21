@@ -1,5 +1,95 @@
 [
   {
+    "id": "pmid-43061481",
+    "title": "ATMPs in oncology: A comprehensive review of CAR-T and CIK cell therapies within the European regulatory framework.",
+    "date": "2026-11-20",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43061481/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43060744",
+    "title": "Integrative Bioinformatics-Driven Discovery of the Novel Chimeric Antigen Receptor (CAR)-T Cell Targets Erb-B2 Receptor Tyrosine Kinase 3 (ErbB3) and Solute Carrier Family 1 Member 5 (SLC1A5) in Melanoma.",
+    "date": "2026-11-20",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43060744/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43058346",
+    "title": "Prospective digital neurocognitive and patient-reported symptom monitoring in adults scheduled for CAR T-cell therapy: feasibility and exploratory patient-level observations from a single-center cohort.",
+    "date": "2026-11-20",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43058346/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43058987",
+    "title": "From Options to Outcomes: The Unmet Need for Effective, Targeted Therapies in Relapsed and Refractory Follicular and Marginal Zone Lymphoma.",
+    "date": "2026-11-20",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43058987/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43058222",
+    "title": "Multicenter characterization of enterocolitis associated with BCMA-directed CAR T cell therapy.",
+    "date": "2026-11-20",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43058222/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43058221",
+    "title": "Expansion and cytotoxicity of mucosal CAR+ T cells in enterocolitis associated with BCMA CAR-T cell therapy.",
+    "date": "2026-11-20",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43058221/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43058212",
+    "title": "Allogeneic trifunctional NK cell therapy combined with rituximab for refractory mixed class IV/V lupus nephritis without lymphodepletion.",
+    "date": "2026-11-20",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43058212/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43062217",
+    "title": "Focused Ultrasound Hyperthermia for Spatiotemporal Activation of Engineered Chimeric Antigen Receptor T Cells in a Prostate Cancer Mouse Model.",
+    "date": "2026-11-20",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43062217/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43059854",
+    "title": "Multi-omics DNA and Protein Characterization in CAR T Cell Therapy.",
+    "date": "2026-11-20",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43059854/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
     "id": "pmid-43056504",
     "title": "NKTR-255, a polymer-conjugated IL-15, enhances CAR T cell therapy by engaging endogenous antitumor immunity.",
     "date": "2026-11-19",
@@ -56,6 +146,56 @@
     "type": "研究文獻",
     "source": "PubMed",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43053183/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43057839",
+    "title": "CAR-T cells in first relapse of paediatric Down syndrome B-cell acute lymphoblastic leukaemia: Oncologist perspectives.",
+    "date": "2026-11-19",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43057839/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43057424",
+    "title": "Impact of Autologous Stem Cell Transplantation and CAR-T Cells Therapy on Vaccine Immunogenicity in Hematological Malignancies: A Prospective Cohort Study.",
+    "date": "2026-11-19",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43057424/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43057228",
+    "title": "CD19 CAR T cell therapy alters disease-associated immune signatures in multiple sclerosis.",
+    "date": "2026-11-19",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43057228/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43056754",
+    "title": "A scalable tumor-vasculature-on-chip for CAR T cell trafficking and efficacy studies.",
+    "date": "2026-11-19",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43056754/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43057069",
+    "title": "Current perspectives of CAR-T cells therapy in peritoneal carcinomatosis.",
+    "date": "2026-11-19",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43057069/",
     "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
     "review": "自動匯入・未審閱"
   },
@@ -381,7 +521,7 @@
   },
   {
     "id": "pmid-43035124",
-    "title": "Engineering Immune Effector Cells from iPSCs: From Reprogramming Biology to Next-Generation CAR Therapies.",
+    "title": "Engineering immune effector cells from iPSCs: From reprogramming biology to next-generation CAR therapies.",
     "date": "2026-11-16",
     "type": "研究文獻",
     "source": "PubMed",
@@ -541,7 +681,7 @@
   },
   {
     "id": "pmid-43025794",
-    "title": "Restoring Activation-Linked Clusterin Loss Attenuates Tumor-Directed T Cell Dysfunction Associated with Reduced Translation and Proteostatic Stress.",
+    "title": "Restoring activation-linked clusterin loss attenuates tumor-directed T cell dysfunction associated with reduced translation and proteostatic stress.",
     "date": "2026-11-14",
     "type": "研究文獻",
     "source": "PubMed",
