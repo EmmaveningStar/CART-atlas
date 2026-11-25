@@ -1,5 +1,115 @@
 [
   {
+    "id": "source-a7819da52e1111e540fabb57",
+    "title": "Kymriah / EU：來源頁面有異動",
+    "date": "2026-11-25",
+    "type": "來源異動",
+    "source": "EMA",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kymriah",
+    "summary": "頁面文字變更可能來自版面或非核准內容。待人工核對，不自動變更核准狀態。",
+    "review": "待人工核對"
+  },
+  {
+    "id": "source-ca5aa1d10ad8a1e6c40a7da7",
+    "title": "Yescarta / EU：來源頁面有異動",
+    "date": "2026-11-25",
+    "type": "來源異動",
+    "source": "EMA",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/yescarta",
+    "summary": "頁面文字變更可能來自版面或非核准內容。待人工核對，不自動變更核准狀態。",
+    "review": "待人工核對"
+  },
+  {
+    "id": "source-4b782e28b9c82bea27773f6f",
+    "title": "Tecartus / EU：來源頁面有異動",
+    "date": "2026-11-25",
+    "type": "來源異動",
+    "source": "EMA",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tecartus",
+    "summary": "頁面文字變更可能來自版面或非核准內容。待人工核對，不自動變更核准狀態。",
+    "review": "待人工核對"
+  },
+  {
+    "id": "source-0e14a0a1c830f4c12ebae761",
+    "title": "Breyanzi / EU：來源頁面有異動",
+    "date": "2026-11-25",
+    "type": "來源異動",
+    "source": "EMA",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/breyanzi",
+    "summary": "頁面文字變更可能來自版面或非核准內容。待人工核對，不自動變更核准狀態。",
+    "review": "待人工核對"
+  },
+  {
+    "id": "source-fb3b9b142101d27f31cb065e",
+    "title": "Abecma / EU：來源頁面有異動",
+    "date": "2026-11-25",
+    "type": "來源異動",
+    "source": "EMA",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/abecma",
+    "summary": "頁面文字變更可能來自版面或非核准內容。待人工核對，不自動變更核准狀態。",
+    "review": "待人工核對"
+  },
+  {
+    "id": "source-9dd8e4ed9709bef18ce6b17c",
+    "title": "Carvykti / EU：來源頁面有異動",
+    "date": "2026-11-25",
+    "type": "來源異動",
+    "source": "EMA",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/carvykti",
+    "summary": "頁面文字變更可能來自版面或非核准內容。待人工核對，不自動變更核准狀態。",
+    "review": "待人工核對"
+  },
+  {
+    "id": "source-8c7e34776e7a230915aa04c0",
+    "title": "Aucatzyl / EU：來源頁面有異動",
+    "date": "2026-11-25",
+    "type": "來源異動",
+    "source": "EMA",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/aucatzyl",
+    "summary": "頁面文字變更可能來自版面或非核准內容。待人工核對，不自動變更核准狀態。",
+    "review": "待人工核對"
+  },
+  {
+    "id": "pmid-43077277",
+    "title": "CAR-based cellular therapy against breast cancer: a translational roadmap for engineering and clinical development.",
+    "date": "2026-11-24",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43077277/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43077648",
+    "title": "Management of Diffuse Large B-Cell Lymphoma.",
+    "date": "2026-11-24",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43077648/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43077579",
+    "title": "IL-2Rα Overexpression Enhances CAR T-Cell Therapeutic Efficacy in B-Cell Lymphoma.",
+    "date": "2026-11-24",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43077579/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43073246",
+    "title": "Locoregional administration of bispecific CAR-T cells targeting CD44 and CD133 in recurrent high-grade glioma: a first-in-human investigator-initiated trial.",
+    "date": "2026-11-24",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43073246/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
     "id": "pmid-43071223",
     "title": "CAR T-cell Therapy for Acute Myeloid Leukemia: Matching Target, Product and Treatment Context.",
     "date": "2026-11-23",
@@ -16,6 +126,56 @@
     "type": "研究文獻",
     "source": "PubMed",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43070343/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43072802",
+    "title": "Central nervous system myelomatosis during Teclistamab therapy after chimeric antigen receptor T-cell failure.",
+    "date": "2026-11-23",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43072802/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43072519",
+    "title": "Strategic Expansion and Structural Engineering of NK and CAR-NK Cells for Adoptive Immunotherapy.",
+    "date": "2026-11-23",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43072519/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43072454",
+    "title": "Rewiring resistance in solid tumors: CAR-NK strategies for immune evasion and tumor microenvironmental barriers.",
+    "date": "2026-11-23",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43072454/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43072371",
+    "title": "Autoantibody origins in lupus and upon recurrence post CAR-T therapy.",
+    "date": "2026-11-23",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43072371/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43072077",
+    "title": "Radiotherapy de-escalation for hematological malignancies: Lessons learned from the past and current state of the art.",
+    "date": "2026-11-23",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43072077/",
     "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
     "review": "自動匯入・未審閱"
   },
@@ -2476,6 +2636,16 @@
     "type": "研究文獻",
     "source": "PubMed",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42936964/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-42945698",
+    "title": "The summa of ZUMA: Lessons from a decade of CD19-targeted CAR-T trials in B-cell malignancies.",
+    "date": "2026-10-27",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42945698/",
     "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
     "review": "自動匯入・未審閱"
   },
