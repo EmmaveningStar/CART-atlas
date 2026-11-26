@@ -70,6 +70,66 @@
     "review": "待人工核對"
   },
   {
+    "id": "pmid-43084644",
+    "title": "Chimeric antigen receptor macrophage-derived extracellular vesicles engage neutrophils to suppress tumors in preclinical cancer models.",
+    "date": "2026-11-25",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43084644/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43084041",
+    "title": "Tuberculosis after CAR T Cell Therapy: When Should the Differential Diagnosis Be Reopened?",
+    "date": "2026-11-25",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43084041/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43079077",
+    "title": "A multidimensional approach to CAR T cell therapy: basic research, clinical evidence, and future development.",
+    "date": "2026-11-25",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43079077/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43078396",
+    "title": "Real-world improvements in cytokine release syndrome and neurologic events and decreased healthcare resource utilization over time in patients receiving axicabtagene ciloleucel for relapsed/refractory large B-cell lymphoma in the US.",
+    "date": "2026-11-25",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43078396/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43078195",
+    "title": "E-CAR: A CD3ε-integrated design framework that improves CAR signaling and T cell therapeutic efficacy.",
+    "date": "2026-11-25",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43078195/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43082770",
+    "title": "Oncohematology in the Era of Immunotherapies: The Key Role of the Human Leukocyte Antigen (HLA) Complex.",
+    "date": "2026-11-25",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43082770/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
     "id": "pmid-43077277",
     "title": "CAR-based cellular therapy against breast cancer: a translational roadmap for engineering and clinical development.",
     "date": "2026-11-24",
@@ -386,6 +446,16 @@
     "type": "研究文獻",
     "source": "PubMed",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43063777/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43059722",
+    "title": "A Standalone PD-1 Chimeric Switch Receptor T-Cell Platform Expands the Therapeutic Window of PD-L1 Targeting in Solid Tumors.",
+    "date": "2026-11-20",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43059722/",
     "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
     "review": "自動匯入・未審閱"
   },
