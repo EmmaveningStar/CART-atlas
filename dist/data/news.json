@@ -1,5 +1,135 @@
 [
   {
+    "id": "source-2b2221899f3d726078e9b54a",
+    "title": "Yescarta / EU：來源頁面有異動",
+    "date": "2026-11-27",
+    "type": "來源異動",
+    "source": "EMA",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/yescarta",
+    "summary": "頁面文字變更可能來自版面或非核准內容。待人工核對，不自動變更核准狀態。",
+    "review": "待人工核對"
+  },
+  {
+    "id": "pmid-43095339",
+    "title": "Transient Re-Expansion of Residual CAR T Cells After Glofitamab in Relapsed DLBCL.",
+    "date": "2026-11-26",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43095339/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43097191",
+    "title": "The immune landscape of chordoma and opportunities for immunotherapy.",
+    "date": "2026-11-26",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43097191/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43096706",
+    "title": "Successful CAR-T Therapy for Early Post-Transplant Combined Medullary and Extensive Extramedullary Relapse in an Infant With KMT2A-Rearranged ALL Complicated by Drug-Resistant Epilepsy: Case Report.",
+    "date": "2026-11-26",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43096706/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43096699",
+    "title": "Long-Term B-Cell Aplasia Post CD19-Targeted CAR T Cells in Paediatric Patients: Implications on Lung Status.",
+    "date": "2026-11-26",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43096699/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43095788",
+    "title": "Retraction Notice to: Separating dose schedule from disease biology in CD19 CAR T-cell therapy. Comment on: \"A novel dose-dense strategy for CD19-directed CAR T-cell therapy is associated with durable responses without increased toxicity in patients with B-cell non-Hodgkin lymphoma\".",
+    "date": "2026-11-26",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43095788/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43094379",
+    "title": "Antigen-Presenting Microrobots Program CAR-T Cell Function.",
+    "date": "2026-11-26",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43094379/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43087103",
+    "title": "Anesthetic challenges and management strategies in patients with prior chimeric antigen receptor T-cell exposure, immunotherapy and thoracic noncardiac anesthesia.",
+    "date": "2026-11-26",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43087103/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43087045",
+    "title": "Emerging advances in CAR-T therapy for solid tumors: latest clinical trial updates from the 2026 ASCO Annual Meeting.",
+    "date": "2026-11-26",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43087045/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43087041",
+    "title": "Effective targeting of pediatric bone sarcoma cells by engineered CAR.HER2 T-cells.",
+    "date": "2026-11-26",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43087041/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43086237",
+    "title": "CD19-directed CAR T-cell therapy for relapsed/refractory follicular lymphoma: off-trial outcomes and subsequent therapy.",
+    "date": "2026-11-26",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43086237/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43092118",
+    "title": "Next-Generation CAR-NK Cell Therapy for Leukemia: Engineering Strategies, Immune Microenvironment Barriers and Clinical Translation.",
+    "date": "2026-11-26",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43092118/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43088228",
+    "title": "Real-World Outcomes of Tisagenlecleucel and Consolidative Hematopoietic Cell Transplantation in Pediatric Relapsed or Refractory B-Cell Acute Lymphoblastic Leukemia.",
+    "date": "2026-11-26",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43088228/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
     "id": "source-a7819da52e1111e540fabb57",
     "title": "Kymriah / EU：來源頁面有異動",
     "date": "2026-11-25",
@@ -126,6 +256,16 @@
     "type": "研究文獻",
     "source": "PubMed",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43082770/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43084918",
+    "title": "Elranatamab following B-cell maturation antigen-directed therapies in relapsed/refractory multiple myeloma.",
+    "date": "2026-11-25",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43084918/",
     "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
     "review": "自動匯入・未審閱"
   },
