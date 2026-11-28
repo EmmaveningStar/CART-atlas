@@ -10,6 +10,36 @@
     "review": "待人工核對"
   },
   {
+    "id": "pmid-43102619",
+    "title": "Public online discussions of CAR T-cell cancer therapy: a narrative review.",
+    "date": "2026-11-27",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43102619/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43101504",
+    "title": "Real-world outcomes of pirtobrutinib in relapsed/refractory mantle cell lymphoma: A European registry analysis.",
+    "date": "2026-11-27",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43101504/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43099579",
+    "title": "CAR T cell therapy for multiple myeloma in a kidney transplant recipient: a case report.",
+    "date": "2026-11-27",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43099579/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
     "id": "pmid-43095339",
     "title": "Transient Re-Expansion of Residual CAR T Cells After Glofitamab in Relapsed DLBCL.",
     "date": "2026-11-26",
@@ -126,6 +156,46 @@
     "type": "研究文獻",
     "source": "PubMed",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43088228/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43098974",
+    "title": "Tumor Organoid-Immune Co-Culture Guided Personalized and Precision Immunotherapy.",
+    "date": "2026-11-26",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43098974/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43098830",
+    "title": "[Translated article] Real-world experience with CAR T-cell therapy in diffuse large B-cell lymphoma.",
+    "date": "2026-11-26",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43098830/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43098692",
+    "title": "Simplified manufacturing workflow for leukapheresis-free CAR-T cell production.",
+    "date": "2026-11-26",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43098692/",
+    "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
+    "review": "自動匯入・未審閱"
+  },
+  {
+    "id": "pmid-43098208",
+    "title": "Early vs Late Eltrombopag for Post BCMA CAR-T Thrombocytopenia in Multiple Myeloma.",
+    "date": "2026-11-26",
+    "type": "研究文獻",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43098208/",
     "summary": "近期收錄文獻；日期為 PubMed 收錄日期，原始發表日期請見來源。未自動判定臨床效益。",
     "review": "自動匯入・未審閱"
   },
